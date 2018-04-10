@@ -24,6 +24,12 @@ https://docs.docker.com/get-started/
 Dockerfile best practices
 https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 
+## Software Engineering
+
+### Meta
+
+Semantic Versioning https://semver.org/
+
 ## Machine Learning
 
 ### Sklearn
