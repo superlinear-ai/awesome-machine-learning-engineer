@@ -41,3 +41,13 @@ Custom Estimators http://danielhnyk.cz/creating-your-own-estimator-scikit-learn/
 Pipelines http://scikit-learn.org/stable/modules/pipeline.html
 
 Pipelines and custom Estimators http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html
+
+## DevOps
+
+### Shell
+
+ShellHarden & ShellCheck https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md
+
+### Terraform
+
+Terraform best practices https://github.com/BWITS/terraform-best-practices
