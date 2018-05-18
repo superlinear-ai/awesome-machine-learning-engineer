@@ -30,6 +30,16 @@ https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 
 Semantic Versioning https://semver.org/
 
+### Python
+
+#### Type annotations
+
+Static type checking with mypy http://mypy-lang.org/
+
+Static type checking with pyre https://pyre-check.org/
+
+Leveraging type system to avoid mistakes https://www.beyondthelines.net/programming/leveraging-the-type-system-to-avoid-mistakes/
+
 ## Machine Learning
 
 ### Sklearn
