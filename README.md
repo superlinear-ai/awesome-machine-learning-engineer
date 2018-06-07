@@ -42,6 +42,12 @@ Leveraging type system to avoid mistakes https://www.beyondthelines.net/programm
 
 ## Machine Learning
 
+### Generalization performance
+
+Bias and variance and the .632 rule https://stats.stackexchange.com/questions/96739/what-is-the-632-rule-in-bootstrapping
+
+Generalization performance & model selection, nested cross-validation https://stats.stackexchange.com/questions/64991/model-selection-and-cross-validation-the-right-way
+
 ### Sklearn
 
 Estimators, Transformers http://scikit-learn.org/dev/developers/contributing.html#apis-of-scikit-learn-objects
