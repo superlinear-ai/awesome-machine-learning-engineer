@@ -39,6 +39,10 @@ Semantic Versioning https://semver.org/
 
 ### Python
 
+#### Programming patterns
+
+Python patterns https://python-patterns.guide
+
 #### Logging
 
 Logging best practices and gotchas https://www.electricmonk.nl/log/2017/08/06/understanding-pythons-logging-module/
