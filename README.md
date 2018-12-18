@@ -26,6 +26,10 @@ https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 
 ## Software Engineering
 
+### Git
+
+Learn git interactively https://learngitbranching.js.org/
+
 ### Meta
 
 Semantic Versioning https://semver.org/
