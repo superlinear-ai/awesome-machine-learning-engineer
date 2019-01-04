@@ -26,6 +26,10 @@ https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 
 ## Software Engineering
 
+### API design
+
+RESTful API guidelines https://opensource.zalando.com/restful-api-guidelines/
+
 ### Git
 
 Learn git interactively https://learngitbranching.js.org/
