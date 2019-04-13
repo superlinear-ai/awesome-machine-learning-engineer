@@ -9,9 +9,6 @@
 
 ## Contents
 
-- [Reproducibility](#reproducibility)
-  - [Package management](#package-management)
-  - [Containerization](#containerization)
 - [Software Engineering](#software-engineering)
   - [API design](#api-design)
   - [Git](#git)
@@ -24,27 +21,11 @@
   - [Generalization performance](#generalization-performance)
   - [Sklearn](#sklearn)
 - [DevOps](#devops)
+  - [Package management](#package-management)
+  - [Containerization](#containerization)
   - [Shell](#shell)
   - [Terraform](#terraform)
   - [Message queues](#message-queues)
-
-## Reproducibility
-
-### Package management
-
-- [Conda tutorial](https://geohackweek.github.io/Introductory/01-conda-tutorial/)
-- [Conda package index](https://www.anaconda.org)
-- [Conda myths](http://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
-- [Conda in-depth](https://www.slideshare.net/AaronMeurer/conda-a-binary-scipy2014)
-- TODO: conda vs virtualenv, pyenv, pipenv.
-- TODO: explain how conda-forge works.
-- TODO: explain environment.yml + interactions with Docker.
-
-### Containerization
-
-- [Docker getting started](https://docs.docker.com/get-started/)
-- [Dockerfile best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
-- TODO: explain registries (Docker Hub, ECR, GitLab)
 
 ## Software Engineering
 
@@ -96,6 +77,22 @@
 - TODO: Comparison of bayesian hyperparam optimizers (PyGPGO)
 
 ## DevOps
+
+### Package management
+
+- [Conda tutorial](https://geohackweek.github.io/Introductory/01-conda-tutorial/)
+- [Conda package index](https://www.anaconda.org)
+- [Conda myths](http://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
+- [Conda in-depth](https://www.slideshare.net/AaronMeurer/conda-a-binary-scipy2014)
+- TODO: conda vs virtualenv, pyenv, pipenv.
+- TODO: explain how conda-forge works.
+- TODO: explain environment.yml + interactions with Docker.
+
+### Containerization
+
+- [Docker getting started](https://docs.docker.com/get-started/)
+- [Dockerfile best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+- TODO: explain registries (Docker Hub, ECR, GitLab)
 
 ### Shell
 
