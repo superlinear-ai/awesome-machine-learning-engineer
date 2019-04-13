@@ -24,7 +24,7 @@
 - [Machine Learning](#machine-learning)
   - [Generalization performance](#generalization-performance)
   - [Sklearn](#sklearn)
-- [DevOps]
+- [DevOps](#devops)
   - [Shell](#shell)
   - [Terraform](#terraform)
 
