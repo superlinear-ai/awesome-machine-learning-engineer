@@ -16,7 +16,6 @@
   - [API design](#api-design)
   - [Git](#git)
   - [Meta](#meta)
-  - [Message queues](#message-queues)
   - [Python](#python)
     - [Programming patterns](#programming-patterns)
     - [Logging](#logging)
@@ -27,6 +26,7 @@
 - [DevOps](#devops)
   - [Shell](#shell)
   - [Terraform](#terraform)
+  - [Message queues](#message-queues)
 
 ## Reproducibility
 
@@ -56,14 +56,6 @@
 ### Meta
 
 - [Semantic versioning](https://semver.org/)
-
-### Message queues
-
-- [Learn about ZeroMQ (which is a socket library with message queue primitives) and messaging patterns](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/patterns/pair.html)
-- [Redis is a key-value store with persistence if you want it, and recently some message queue like features. But it's still mainly a key-value store. One nice use case is a redis-backed LRU-cache](https://github.com/leohowell/redis-lru)
-- [RabbitMQ is a message queue library at heart, with persistence options that aren't bolted on like with Redis. It's two main message queue abstractions are "pub-sub" and the "competing consumers" model.](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
-- Kafka is kind of like RabbitMQ but focuses on processing of streaming data by having "smart consumers" and a "dumb broker". RabbitMQ is the reverse of that. Kafka runs on the JVM, so it's a pretty heavy dependency.
-- TODO: Kinesis streams.
 
 ### Python
 
@@ -111,3 +103,11 @@
 
 - [Terraform best practices](https://github.com/BWITS/terraform-best-practices)
 - TODO: Linting built-in to Terraform with `-check`.
+
+### Message queues
+
+- [Learn about ZeroMQ (which is a socket library with message queue primitives) and messaging patterns](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/patterns/pair.html)
+- [Redis is a key-value store with persistence if you want it, and recently some message queue like features. But it's still mainly a key-value store. One nice use case is a redis-backed LRU-cache](https://github.com/leohowell/redis-lru)
+- [RabbitMQ is a message queue library at heart, with persistence options that aren't bolted on like with Redis. It's two main message queue abstractions are "pub-sub" and the "competing consumers" model.](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
+- Kafka is kind of like RabbitMQ but focuses on processing of streaming data by having "smart consumers" and a "dumb broker". RabbitMQ is the reverse of that. Kafka runs on the JVM, so it's a pretty heavy dependency.
+- TODO: Kinesis streams.
