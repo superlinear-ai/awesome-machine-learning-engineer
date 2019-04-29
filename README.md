@@ -66,6 +66,7 @@
 
 - [Bias and variance and the .632 rule](https://stats.stackexchange.com/questions/96739/what-is-the-632-rule-in-bootstrapping)
 - [Generalization performance & model selection, nested cross-validation](https://stats.stackexchange.com/questions/64991/model-selection-and-cross-validation-the-right-way)
+- [Stacking strategies with and without leaks](https://www.kaggle.com/general/18793)
 
 ### Sklearn
 
