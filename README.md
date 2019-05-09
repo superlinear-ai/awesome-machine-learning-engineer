@@ -32,6 +32,7 @@
 ### API design
 
 - [Zalando's RESTful API guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+- [HTTP response headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 
 ### Git
 
@@ -43,9 +44,14 @@
 
 ### Python
 
-#### Programming patterns
+#### Idiomatic
 
+- [The Definitive Guide to Python import Statements](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html)
+- [Python's development is conducted through Python Enhancement Proposals (PEP)](https://en.wikipedia.org/wiki/Python_(programming_language)#Development)
+- [PEP20 "The Zen of Python" is Python's ideology](https://www.python.org/dev/peps/pep-0020/)
+- [PEP8 "Style Guide for Python Code" is a guide to writing idiomatic Python](https://www.python.org/dev/peps/pep-0008/)
 - [Python patterns](https://python-patterns.guide)
+- TODO: Flake8, pylint, Raymond Hettinger
 
 #### Logging
 
@@ -53,16 +59,15 @@
 
 #### Type annotation
 
-- [Static type checking with mypy](http://mypy-lang.org/)
-- [Static type checking with pyre](https://pyre-check.org/)
 - [Leveraging type system to avoid mistakes](https://www.beyondthelines.net/programming/leveraging-the-type-system-to-avoid-mistakes/)
+- [Getting started with Mypy](https://mypy.readthedocs.io/en/stable/getting_started.html)
 - [Mypy protocols](https://mypy.readthedocs.io/en/latest/protocols.html)
+- [Facebook's type checker Pyre](https://pyre-check.org/)
 - TODO: Mypy strict mode.
-- TODO: Flake8, pylint, PEP8 (+ what is PEP?), idiomatic Python (+ what are idioms, ideology?)
 
 ## Machine Learning
 
-### Generalization performance
+### Generalisation performance
 
 - [Bias and variance and the .632 rule](https://stats.stackexchange.com/questions/96739/what-is-the-632-rule-in-bootstrapping)
 - [Generalization performance & model selection, nested cross-validation](https://stats.stackexchange.com/questions/64991/model-selection-and-cross-validation-the-right-way)
