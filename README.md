@@ -110,8 +110,8 @@
 
 ### Message queues
 
-- [Learn about ZeroMQ (which is a socket library with message queue primitives) and messaging patterns](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/patterns/pair.html)
-- [Redis is a key-value store with persistence if you want it, and recently some message queue like features. But it's still mainly a key-value store. One nice use case is a redis-backed LRU-cache](https://github.com/leohowell/redis-lru)
-- [RabbitMQ is a message queue library at heart, with persistence options that aren't bolted on like with Redis. It's two main message queue abstractions are "pub-sub" and the "competing consumers" model.](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
-- Kafka is kind of like RabbitMQ but focuses on processing of streaming data by having "smart consumers" and a "dumb broker". RabbitMQ is the reverse of that. Kafka runs on the JVM, so it's a pretty heavy dependency.
-- TODO: Kinesis streams.
+- [ZeroMQ: a socket library with message queue primitives](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/patterns/pair.html)
+- [Redis: a key-value store with optional persistence](https://github.com/leohowell/redis-lru)
+- [RabbitMQ: a message queue library with persistance](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
+- TODO: Kafka is the opposite of RabbitMQ with "smart consumers" and a "dumb broker"
+- TODO: Kinesis streams
