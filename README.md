@@ -9,6 +9,7 @@
 
 ## Contents
 
+- [Communication](#communication)
 - [Software Engineering](#software-engineering)
   - [API design](#api-design)
   - [Version control](#version-control)
@@ -29,6 +30,13 @@
   - [Infrastructure](#infrastructure)
     - [Datastores](#datastores)
     - [Message queues](#message-queues)
+
+## Communication
+
+- [SCQA/SCoRE stories and NOSE/SPIN sales pitches](http://jchyip.blogspot.com/2011/11/good-message-structure-underlies-all.html)
+- [MECE lists: Mutually exclusive, collectively exhaustive](https://www.mbacrystalball.com/blog/strategy/mece-framework/)
+- [SMART goals: Specific, measurable, achievable, relevant, time-bound](https://en.wikipedia.org/wiki/SMART_criteria)
+- [Use the Halo Effect to your advantage](https://effectiviology.com/halo-effect/)
 
 ## Software Engineering
 
