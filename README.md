@@ -24,7 +24,9 @@
   - [Containerization](#containerization)
   - [Shell](#shell)
   - [Terraform](#terraform)
-  - [Message queues](#message-queues)
+  - [Infrastructure](#infrastructure)
+    - [Datastores](#datastores)
+    - [Message queues](#message-queues)
 
 ## Software Engineering
 
@@ -108,7 +110,15 @@
 - [Terraform best practices](https://github.com/BWITS/terraform-best-practices)
 - TODO: Linting built-in to Terraform with `-check`.
 
-### Message queues
+### Infrastructure
+
+#### Datastores
+
+- TODO: S3
+- TODO: DynamoDB
+- TODO: MongoDB
+
+#### Message queues
 
 - [ZeroMQ: a socket library with message queue primitives](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/patterns/pair.html)
 - [Redis: a key-value store with optional persistence](https://github.com/leohowell/redis-lru)
