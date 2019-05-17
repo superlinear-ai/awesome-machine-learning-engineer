@@ -11,8 +11,7 @@
 
 - [Software Engineering](#software-engineering)
   - [API design](#api-design)
-  - [Git](#git)
-  - [Meta](#meta)
+  - [Version control](#version-control)
   - [Python](#python)
     - [Programming patterns](#programming-patterns)
     - [Logging](#logging)
@@ -32,19 +31,18 @@
 ### API design
 
 - [Zalando's RESTful API guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+- [Terrifically Simple JSON](https://github.com/mpnally/Terrifically-Simple-JSON)
 - [HTTP response headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
+- [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
+- [Semantic versioning](https://semver.org/)
 
-### Git
+### Version control
 
 - [Learn git interactively](https://learngitbranching.js.org/)
 
-### Meta
-
-- [Semantic versioning](https://semver.org/)
-
 ### Python
 
-#### Idiomatic
+#### Ideology
 
 - [The Definitive Guide to Python import Statements](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html)
 - [Python's development is conducted through Python Enhancement Proposals (PEP)](https://en.wikipedia.org/wiki/Python_(programming_language)#Development)
