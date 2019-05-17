@@ -15,6 +15,7 @@
   - [Python](#python)
     - [Programming patterns](#programming-patterns)
     - [Logging](#logging)
+    - [Linting](#linting)  
     - [Type annotation](#type-annotation)
 - [Machine Learning](#machine-learning)
   - [Generalization performance](#generalization-performance)
@@ -24,6 +25,7 @@
   - [Containerization](#containerization)
   - [Shell](#shell)
   - [Terraform](#terraform)
+  - [Security](#security)
   - [Infrastructure](#infrastructure)
     - [Datastores](#datastores)
     - [Message queues](#message-queues)
@@ -51,16 +53,22 @@
 - [PEP20 "The Zen of Python" is Python's ideology](https://www.python.org/dev/peps/pep-0020/)
 - [PEP8 "Style Guide for Python Code" is a guide to writing idiomatic Python](https://www.python.org/dev/peps/pep-0008/)
 - [Python patterns](https://python-patterns.guide)
-- TODO: Flake8, pylint, Raymond Hettinger
+- TODO: Raymond Hettinger
 
 #### Logging
 
 - [Logging best practices and gotchas](https://www.electricmonk.nl/log/2017/08/06/understanding-pythons-logging-module/)
 
+#### Linting
+
+- TODO: flake8 + extensions (sub-bullets)
+- TODO: pylint
+- TODO: pydocstyle
+
 #### Type annotation
 
-- [Leveraging type system to avoid mistakes](https://www.beyondthelines.net/programming/leveraging-the-type-system-to-avoid-mistakes/)
 - [Getting started with Mypy](https://mypy.readthedocs.io/en/stable/getting_started.html)
+- [Leveraging type system to avoid mistakes](https://www.beyondthelines.net/programming/leveraging-the-type-system-to-avoid-mistakes/)
 - [Mypy protocols](https://mypy.readthedocs.io/en/latest/protocols.html)
 - [Facebook's type checker Pyre](https://pyre-check.org/)
 - TODO: Mypy strict mode.
@@ -109,6 +117,12 @@
 
 - [Terraform best practices](https://github.com/BWITS/terraform-best-practices)
 - TODO: Linting built-in to Terraform with `-check`.
+
+### Security
+
+- TODO: CVE scans (frontend and backend)
+- TODO: OSS license scan
+- TODO: mutual TLS, IP whitelisting, (VPN)
 
 ### Infrastructure
 
