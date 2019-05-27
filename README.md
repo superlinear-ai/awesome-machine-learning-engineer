@@ -43,6 +43,7 @@
 ### API design
 
 - [Zalando's RESTful API guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+- [gRPC compared to REST](https://eng.fromatob.com/post/2019/05/why-were-switching-to-grpc/)
 - [Terrifically Simple JSON](https://github.com/mpnally/Terrifically-Simple-JSON)
 - [HTTP response headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 - [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
