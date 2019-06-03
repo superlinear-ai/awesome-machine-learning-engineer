@@ -37,6 +37,8 @@
 - [MECE lists: Mutually exclusive, collectively exhaustive](https://www.mbacrystalball.com/blog/strategy/mece-framework/)
 - [SMART goals: Specific, measurable, achievable, relevant, time-bound](https://en.wikipedia.org/wiki/SMART_criteria)
 - [Use the Halo Effect to your advantage](https://effectiviology.com/halo-effect/)
+- [How to deliver constructive feedback in difficult situations](https://medium.com/s/please-advise/the-essential-guide-to-difficult-conversations-41f736e63ccf)
+- [The XY Problem](http://xyproblem.info/)
 
 ## Software Engineering
 
@@ -118,6 +120,7 @@
 
 - [Docker getting started](https://docs.docker.com/get-started/)
 - [Dockerfile best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+- [Dockerizing python is hard](https://pythonspeed.com/articles/dockerizing-python-is-hard/)
 - TODO: explain registries (Docker Hub, ECR, GitLab)
 
 ### Shell
