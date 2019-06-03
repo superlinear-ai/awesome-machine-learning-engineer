@@ -52,6 +52,7 @@
 ### Version control
 
 - [Learn git interactively](https://learngitbranching.js.org/)
+- [The seven rules of a great Git commit message](https://chris.beams.io/posts/git-commit/)
 
 ### Python
 
