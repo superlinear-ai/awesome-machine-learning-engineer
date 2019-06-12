@@ -49,6 +49,7 @@
 - [Terrifically Simple JSON](https://github.com/mpnally/Terrifically-Simple-JSON)
 - [HTTP response headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 - [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
+- [Falsehoods programmers believe about names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [Semantic versioning](https://semver.org/)
 
 ### Version control
