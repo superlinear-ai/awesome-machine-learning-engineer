@@ -39,6 +39,7 @@
 - [Use the Halo Effect to your advantage](https://effectiviology.com/halo-effect/)
 - [How to deliver constructive feedback in difficult situations](https://medium.com/s/please-advise/the-essential-guide-to-difficult-conversations-41f736e63ccf)
 - [The XY Problem](http://xyproblem.info/)
+- [Email like a boss](https://images.app.goo.gl/KZtSNj8n7xxCLrGZ7)
 
 ## Software Engineering
 
