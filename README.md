@@ -33,13 +33,13 @@
 
 ## Communication
 
-- [SCQA/SCoRE stories and NOSE/SPIN sales pitches](http://jchyip.blogspot.com/2011/11/good-message-structure-underlies-all.html)
-- [MECE lists: Mutually exclusive, collectively exhaustive](https://www.mbacrystalball.com/blog/strategy/mece-framework/)
-- [SMART goals: Specific, measurable, achievable, relevant, time-bound](https://en.wikipedia.org/wiki/SMART_criteria)
-- [Use the Halo Effect to your advantage](https://effectiviology.com/halo-effect/)
-- [How to deliver constructive feedback in difficult situations](https://medium.com/s/please-advise/the-essential-guide-to-difficult-conversations-41f736e63ccf)
-- [The XY Problem](http://xyproblem.info/)
-- [Email like a boss](https://images.app.goo.gl/KZtSNj8n7xxCLrGZ7)
+- [Structure presentations, proposals and sales interactions | 5 min | **](http://jchyip.blogspot.com/2011/11/good-message-structure-underlies-all.html)
+- [Structure problems/solutions mutually exclusive and collectively exhaustive | 8 min | ****](https://www.mbacrystalball.com/blog/strategy/mece-framework/)
+- [SMART goals: specific, measurable, achievable, relevant, time-bound | 2 min | ***](https://en.wikipedia.org/wiki/SMART_criteria)
+- [Use the Halo Effect to your advantage | 10 min | ***](https://effectiviology.com/halo-effect/)
+- [Deliver constructive feedback in difficult situations | 10 min | ****](https://medium.com/s/please-advise/the-essential-guide-to-difficult-conversations-41f736e63ccf)
+- [Focus on the solution when asking for help | 3 min | ****](http://xyproblem.info/)
+- [Useful e-mail phrases | 1 min | **](https://images.app.goo.gl/KZtSNj8n7xxCLrGZ7)
 
 ## Software Engineering
 
