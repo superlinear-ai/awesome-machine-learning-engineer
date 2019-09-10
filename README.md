@@ -3,7 +3,10 @@
 <div align="center">
 	<img width="500" height="350" src="https://github.com/sindresorhus/awesome/raw/master/media/logo.svg?sanitize=true" alt="Awesome">
   
-  A curated list of delightful Machine Learning Engineering resources.<br>For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome).
+  A curated list of delightful Machine Learning Engineering resources. <br>
+  The resources are structured as follows: *Title* - *Description* (*Reading time*) <br> The descriptions are written so that they complete the sentence *"After reading this article you will have learned to ..."*.
+  
+  For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome).
 
 </div>
 
@@ -14,7 +17,7 @@
   - [API design](#api-design)
   - [Version control](#version-control)
   - [Python](#python)
-    - [Programming patterns](#programming-patterns)
+    - [Ideology](#ideology)
     - [Logging](#logging)
     - [Linting](#linting)  
     - [Type annotation](#type-annotation)
@@ -33,13 +36,13 @@
 
 ## Communication
 
-- [Structure presentations, proposals and sales interactions | 5 min | **](http://jchyip.blogspot.com/2011/11/good-message-structure-underlies-all.html)
-- [Structure problems/solutions mutually exclusive and collectively exhaustive | 8 min | ****](https://www.mbacrystalball.com/blog/strategy/mece-framework/)
-- [SMART goals: specific, measurable, achievable, relevant, time-bound | 2 min | ***](https://en.wikipedia.org/wiki/SMART_criteria)
-- [Use the Halo Effect to your advantage | 10 min | ***](https://effectiviology.com/halo-effect/)
-- [Deliver constructive feedback in difficult situations | 10 min | ****](https://medium.com/s/please-advise/the-essential-guide-to-difficult-conversations-41f736e63ccf)
-- [Focus on the solution when asking for help | 3 min | ****](http://xyproblem.info/)
-- [Useful e-mail phrases | 1 min | **](https://images.app.goo.gl/KZtSNj8n7xxCLrGZ7)
+- [The XY problem](http://xyproblem.info/) - Focus on the solution when asking for help. (5 min)
+- [MECE lists](https://www.oreilly.com/ideas/a-foundational-strategy-pattern-for-analysis-mece) - Write structured lists for documents, slides, and Slack. (10 min)
+- [Nonviolent communication](https://medium.com/s/please-advise/the-essential-guide-to-difficult-conversations-41f736e63ccf) - Deliver constructive feedback in difficult situations. (10 min)
+- [SMART goals](https://en.wikipedia.org/wiki/SMART_criteria) - Define goals in a structured way. (5 min)
+- [The Halo effect](https://effectiviology.com/halo-effect/) - Account for the cognitive bias that might influence the way you view others. (10 min)
+- [SCQA/SCoRE stories and NOSE/SPIN sales pitches](http://jchyip.blogspot.com/2011/11/good-message-structure-underlies-all.html) - Structure presentations, proposals and sales interactions. (5 min)
+- [E-mail like a boss](https://images.app.goo.gl/KZtSNj8n7xxCLrGZ7) - Write useful e-mail phrases. (1 min)
 
 ## Software Engineering
 
