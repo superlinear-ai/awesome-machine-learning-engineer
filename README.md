@@ -49,38 +49,39 @@
 ### API design
 
 - [Zalando's RESTful API guidelines](https://opensource.zalando.com/restful-api-guidelines/)
-- [gRPC compared to REST](https://eng.fromatob.com/post/2019/05/why-were-switching-to-grpc/)
-- [Terrifically Simple JSON](https://github.com/mpnally/Terrifically-Simple-JSON)
-- [HTTP response headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
-- [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
-- [Falsehoods programmers believe about names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
-- [Semantic versioning](https://semver.org/)
+- [gRPC compared to REST](https://eng.fromatob.com/post/2019/05/why-were-switching-to-grpc/) - Compare the two leading solutions for communication between services (5 min)
+- [Terrifically Simple JSON](https://github.com/mpnally/Terrifically-Simple-JSON) - Represent data using JSON (10 min)
+- [HTTP response headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer) - Improve user experience using HTTP headers. (2 min)
+- [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) - Avoid most of the assumptions made about time. (2 min)
+- [Falsehoods programmers believe about names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - Avoid most of the assumptions made about personal names. (5 min)
+- [Semantic versioning](https://semver.org/) - Assign and increment version numbers of projects. (10 min)
 
 ### Version control
 
-- [Learn git interactively](https://learngitbranching.js.org/)
-- [The seven rules of a great Git commit message](https://chris.beams.io/posts/git-commit/)
+- [Learn Git Branching](https://learngitbranching.js.org/) - Work on your version control skills at beginner or advanced level. (10 min and more)
+- [The seven rules of a great Git commit message](https://chris.beams.io/posts/git-commit/) - Write concise and consistent Git commit messages (10 min)
 
 ### Python
 
 #### Ideology
 
-- [The Definitive Guide to Python import Statements](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html)
+- [The Definitive Guide to Python import Statements](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html) - Resolve common importing problems (15 min)
 - [Python's development is conducted through Python Enhancement Proposals (PEP)](https://en.wikipedia.org/wiki/Python_(programming_language)#Development)
-- [PEP20 "The Zen of Python" is Python's ideology](https://www.python.org/dev/peps/pep-0020/)
-- [PEP8 "Style Guide for Python Code" is a guide to writing idiomatic Python](https://www.python.org/dev/peps/pep-0008/)
+- [PEP20 "The Zen of Python"](https://www.python.org/dev/peps/pep-0020/) - Get to know the guiding principles for Python's design. (1 min)
+- [PEP8 "Style Guide for Python Code" is a guide to writing idiomatic Python](https://www.python.org/dev/peps/pep-0008/) - Write consistent code with high readability. (10 min)
 - [Python patterns](https://python-patterns.guide)
 - TODO: Raymond Hettinger
 
 #### Logging
 
-- [Logging best practices and gotchas](https://www.electricmonk.nl/log/2017/08/06/understanding-pythons-logging-module/)
+- [Logging best practices and gotchas](https://www.electricmonk.nl/log/2017/08/06/understanding-pythons-logging-module/) - Understand the `logging` module (10 min)
 
 #### Linting
 
-- TODO: flake8 + extensions (sub-bullets)
-- TODO: pylint
-- TODO: pydocstyle
+- [Flake8](http://flake8.pycqa.org/en/latest/manpage.html) - Enforce code style consistency in a Python project. (10 min) 
+- TODO: extensions of flake8 (sub-bullets)
+- [Pylint](https://pylint.readthedocs.io/en/latest/)
+- [pydocstyle](http://www.pydocstyle.org/en/4.0.1/index.html) - Check compliance with Python docstring conventions. (5 min)
 
 #### Type annotation
 
@@ -93,6 +94,8 @@
 ## Machine Learning
 
 ### Practical Theory
+
+_While, in theory, you can just download Tensorflow and start making deep neural networks, it doesn’t hurt to know some of the theory and philosophy that lies behind the algorithms that so many of us know and love today._
 
 - [Bias and variance and the .632 rule](https://stats.stackexchange.com/questions/96739/what-is-the-632-rule-in-bootstrapping)
 - [Generalization performance & model selection, nested cross-validation](https://stats.stackexchange.com/questions/64991/model-selection-and-cross-validation-the-right-way)
