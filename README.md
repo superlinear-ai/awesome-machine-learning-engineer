@@ -117,7 +117,7 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 ### Package management
 
 - [Conda tutorial](https://geohackweek.github.io/Introductory/01-conda-tutorial/)
-- [Conda package index](https://www.anaconda.org)
+- [Conda package index](https://www.anaconda.org/search)
 - [Conda myths](http://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
 - [Conda in-depth](https://www.slideshare.net/AaronMeurer/conda-a-binary-scipy2014)
 - TODO: conda vs virtualenv, pyenv, pipenv.
