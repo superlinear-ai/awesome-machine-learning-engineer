@@ -109,7 +109,8 @@
 
 _While, in theory, you can just download Tensorflow and start making deep neural networks, it doesn’t hurt to know some of the theory and philosophy that lies behind the algorithms that so many of us know and love today._
 
-- [Bias and variance and the .632 rule](https://stats.stackexchange.com/questions/96739/what-is-the-632-rule-in-bootstrapping)
+- [Bias and variance](https://elitedatascience.com/bias-variance-tradeoff) - Distinguish between different types of prediction error. (5 min)
+- [Bias and variance and the .632 rule](https://stats.stackexchange.com/questions/96739/what-is-the-632-rule-in-bootstrapping) - Balance bias and variance when bootstrapping. (10 min)
 - [Generalization performance & model selection, nested cross-validation](https://stats.stackexchange.com/questions/64991/model-selection-and-cross-validation-the-right-way)
 - [Stacking strategies with and without leaks](https://www.kaggle.com/general/18793)
 - [Backpropagation is the chain rule to compute the gradient](https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html) - Make the connection between backpropagation and the chain rule (20 min)
