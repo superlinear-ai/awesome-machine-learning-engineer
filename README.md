@@ -16,10 +16,12 @@
 - [Software Engineering](#software-engineering)
   - [API design](#api-design)
   - [Version control](#version-control)
+  - [Code review](#code-review)
   - [Python](#python)
     - [Ideology](#ideology)
     - [Logging](#logging)
-    - [Linting](#linting)  
+    - [Linting](#linting)
+    - [Testing](#testing)
     - [Type annotation](#type-annotation)
 - [Machine Learning](#machine-learning)
   - [Practical Theory](#practical-theory)
@@ -36,6 +38,7 @@
 
 ## Communication
 
+- [BLUF: The Military Standard](https://www.animalz.co/blog/bottom-line-up-front/) - Make your emails and communication more powerful. (5 min)
 - [The XY problem](http://xyproblem.info/) - Focus on the solution when asking for help. (5 min)
 - [MECE lists](https://www.oreilly.com/ideas/a-foundational-strategy-pattern-for-analysis-mece) - Write structured lists for documents, slides, and Slack. (10 min)
 - [Nonviolent communication](https://medium.com/s/please-advise/the-essential-guide-to-difficult-conversations-41f736e63ccf) - Deliver constructive feedback in difficult situations. (10 min)
@@ -48,6 +51,7 @@
 
 ### API design
 
+- [FastAPI docs](https://fastapi.tiangolo.com/tutorial/first-steps/) - Build RESTful APIs that correspond one-to-one with the OpenAPI spec. (1 hour)
 - [Zalando's RESTful API guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 - [gRPC compared to REST](https://eng.fromatob.com/post/2019/05/why-were-switching-to-grpc/) - Compare the two leading solutions for communication between services. (5 min)
 - [Terrifically Simple JSON](https://github.com/mpnally/Terrifically-Simple-JSON) - Represent data using JSON. (10 min)
@@ -60,6 +64,10 @@
 
 - [Learn Git Branching](https://learngitbranching.js.org/) - Work on your version control skills at beginner or advanced level. (10 min and more)
 - [The seven rules of a great Git commit message](https://chris.beams.io/posts/git-commit/) - Write concise and consistent Git commit messages. (10 min)
+
+### Code review
+
+- [Google's "How to do a code review"](https://google.github.io/eng-practices/review/reviewer/) - How to code reviews your colleages will love. (20 min)
 
 ### Python
 
@@ -82,6 +90,10 @@
 - TODO: extensions of flake8 (sub-bullets)
 - [Pylint](https://pylint.readthedocs.io/en/latest/)
 - [pydocstyle](http://www.pydocstyle.org/en/4.0.1/index.html) - Check compliance with Python docstring conventions. (5 min)
+
+#### Testing
+
+- [https://timothycrosley.github.io/hypothesis-auto] - Write fully automatic unit tests based on type annotations. (30 min)
 
 #### Type annotation
 
