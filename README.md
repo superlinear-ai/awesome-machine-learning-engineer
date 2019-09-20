@@ -93,7 +93,7 @@
 
 #### Testing
 
-- [https://timothycrosley.github.io/hypothesis-auto] - Write fully automatic unit tests based on type annotations. (30 min)
+- [hypothesis-auto](https://timothycrosley.github.io/hypothesis-auto) - Write fully automatic unit tests based on type annotations. (30 min)
 
 #### Type annotation
 
