@@ -139,7 +139,7 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 ### Containerization
 
 - [Docker getting started](https://docs.docker.com/get-started/)
-- [Dockerfile best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+- [Dockerfile best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) - Build efficient images (30 min)
 - [Dockerizing python is hard](https://pythonspeed.com/articles/dockerizing-python-is-hard/)
 - TODO: explain registries (Docker Hub, ECR, GitLab)
 
