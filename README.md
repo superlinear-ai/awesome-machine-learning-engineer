@@ -108,13 +108,13 @@
 
 _While, in theory, you can just download Tensorflow and start making deep neural networks, it doesn’t hurt to know some of the theory and philosophy that lies behind the algorithms that so many of us know and love today._
 
-- [Learning Machine Learning: An online comic from Google AI](http://cloud.google.com/products/ai/ml-comic-1) - Understand the basics of supervised and unsupervised learning (15 min)
+- [Learning Machine Learning: An online comic from Google AI](http://cloud.google.com/products/ai/ml-comic-1) - Understand the basics of supervised and unsupervised learning. (15 min)
 - [Bias and variance](https://elitedatascience.com/bias-variance-tradeoff) - Distinguish between different types of prediction error. (5 min)
 - [Bias and variance and the .632 rule](https://stats.stackexchange.com/questions/96739/what-is-the-632-rule-in-bootstrapping) - Balance bias and variance when bootstrapping. (10 min)
 - [Generalization performance & model selection, nested cross-validation](https://stats.stackexchange.com/questions/64991/model-selection-and-cross-validation-the-right-way) - Use best practices for cross-validation. (10 min)
 - [Stacking strategies with and without leaks](https://www.kaggle.com/general/18793) - Choose the right cross-validation strategy when stacking. (15 min)
-- [Backpropagation is the chain rule to compute the gradient](https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html) - Make the connection between backpropagation and the chain rule (20 min)
-- [Backprop is not just the chain rule](https://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/) - Make the connection between backpropagation and Lagrange multipliers (20 min)
+- [Backpropagation is the chain rule to compute the gradient](https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html) - Make the connection between backpropagation and the chain rule. (20 min)
+- [Backprop is not just the chain rule](https://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/) - Make the connection between backpropagation and Lagrange multipliers. (20 min)
 
 
 ### Sklearn
