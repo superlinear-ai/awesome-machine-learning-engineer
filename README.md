@@ -74,9 +74,8 @@
 #### Ideology
 
 - [The Definitive Guide to Python import Statements](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html) - Resolve common importing problems. (15 min)
-- [Python's development is conducted through Python Enhancement Proposals (PEP)](https://en.wikipedia.org/wiki/Python_(programming_language)#Development)
 - [PEP20 "The Zen of Python"](https://www.python.org/dev/peps/pep-0020/) - Get to know the guiding principles for Python's design. (1 min)
-- [PEP8 "Style Guide for Python Code" is a guide to writing idiomatic Python](https://www.python.org/dev/peps/pep-0008/) - Write consistent code with high readability. (10 min)
+- [PEP8, and why it is important](https://pragmaticcoders.com/blog/pep8-and-why-is-it-important/) - Write consistent code with high readability. (5 min)
 - [Python patterns](https://python-patterns.guide)
 - TODO: Raymond Hettinger
 
