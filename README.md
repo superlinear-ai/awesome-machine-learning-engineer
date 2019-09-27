@@ -77,6 +77,7 @@
 - [PEP20 "The Zen of Python"](https://www.python.org/dev/peps/pep-0020/) - Get to know the guiding principles for Python's design. (1 min)
 - [PEP8, and why it is important](https://pragmaticcoders.com/blog/pep8-and-why-is-it-important/) - Write consistent code with high readability. (5 min)
 - [Python patterns](https://python-patterns.guide)
+- [Python ani-patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
 - TODO: Raymond Hettinger
 
 #### Logging
@@ -97,6 +98,7 @@
 #### Type annotation
 
 - [Getting started with Mypy](https://mypy.readthedocs.io/en/stable/getting_started.html)
+- [The state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/)
 - [Leveraging type system to avoid mistakes](https://www.beyondthelines.net/programming/leveraging-the-type-system-to-avoid-mistakes/)
 - [Mypy protocols](https://mypy.readthedocs.io/en/latest/protocols.html)
 - [Facebook's type checker Pyre](https://pyre-check.org/)
