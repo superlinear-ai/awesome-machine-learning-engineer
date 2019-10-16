@@ -190,3 +190,5 @@ Here are some examples of what we do with Machine Learning, the technology behin
 - Help travelers catch their flight by predicting waiting times in airports.
 
 You can follow our adventures on [Medium](https://medium.com/radix-ai-blog).
+
+<img width="100" src="https://radix.ai/wp-content/uploads/2019/09/radix_logo.png" alt="radix">
