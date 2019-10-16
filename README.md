@@ -77,7 +77,7 @@
 - [PEP20 "The Zen of Python"](https://www.python.org/dev/peps/pep-0020/) - Get to know the guiding principles for Python's design. (1 min)
 - [PEP8, and why it is important](https://pragmaticcoders.com/blog/pep8-and-why-is-it-important/) - Write consistent code with high readability. (5 min)
 - [Python patterns](https://python-patterns.guide)
-- [Python ani-patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
+- [Python anti-patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
 - TODO: Raymond Hettinger
 
 #### Logging
@@ -180,13 +180,13 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - TODO: Kafka is the opposite of RabbitMQ with "smart consumers" and a "dumb broker"
 - TODO: Kinesis streams
 
-## Developed by radix.ai
+## Developed by Radix
 
-At [radix.ai](https://radix.ai/), we invent, design and develop AI-powered software.
+At [Radix](https://radix.ai), we invent, design and develop robust and innovative AI-powered software solutions.
 
 Here are some examples of what we do with Machine Learning, the technology behind AI:
-- Help job seekers find a job. On the [Belgian Public Employment Service website](https://www.vdab.be/), we serve job recommendations based on your CV.
-- Help hospitals save time. We extract diagnoses from patient discharge letters.
+- Help job seekers find a job. On the [Belgian Public Employment Service website](https://www.vdab.be), we serve job recommendations based on your CV.
 - Help publishers calculate their impact, by detecting copycat articles.
+- Help travelers catch their flight by predicting waiting times in airports.
 
-You can follow our adventures on [medium](https://medium.com/radix-ai-blog).
+You can follow our adventures on [Medium](https://medium.com/radix-ai-blog).
