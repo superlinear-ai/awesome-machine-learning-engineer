@@ -87,7 +87,7 @@
 #### Linting
 
 - [Flake8](http://flake8.pycqa.org/en/latest/manpage.html) - Enforce code style consistency in a Python project. (10 min) 
-- TODO: extensions of flake8 (sub-bullets)
+- [Flake8 extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - A curated awesome list of Flake8 extensions
 - [Pylint](https://pylint.readthedocs.io/en/latest/)
 - [pydocstyle](http://www.pydocstyle.org/en/4.0.1/index.html) - Check compliance with Python docstring conventions. (5 min)
 
