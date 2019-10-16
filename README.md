@@ -39,7 +39,7 @@
 ## Communication
 
 - [BLUF: The Military Standard](https://www.animalz.co/blog/bottom-line-up-front/) - Make your emails and communication more powerful. (5 min)
-- [The XY problem](http://xyproblem.info/) - Focus on the solution when asking for help. (5 min)
+- [The XY problem](http://xyproblem.info/) - Focus on explaining your end goal when asking for help. (5 min)
 - [MECE lists](https://www.oreilly.com/ideas/a-foundational-strategy-pattern-for-analysis-mece) - Write structured lists for documents, slides, and Slack. (10 min)
 - [Nonviolent communication](https://medium.com/s/please-advise/the-essential-guide-to-difficult-conversations-41f736e63ccf) - Deliver constructive feedback in difficult situations. (10 min)
 - [SMART goals](https://en.wikipedia.org/wiki/SMART_criteria) - Define goals in a structured way. (5 min)
