@@ -1,4 +1,4 @@
-# Awesome Full Stack Machine Learning
+# Awesome Machine Learning Engineer
 
 <div align="center">
 	<img width="500" height="350" src="https://github.com/sindresorhus/awesome/raw/master/media/logo.svg?sanitize=true" alt="Awesome">
@@ -87,7 +87,7 @@
 #### Linting
 
 - [Flake8](http://flake8.pycqa.org/en/latest/manpage.html) - Enforce code style consistency in a Python project. (10 min) 
-- [Flake8 extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - A curated awesome list of Flake8 extensions
+- [Flake8 extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - Pick the right Flake8 extensions.
 - [Pylint](https://pylint.readthedocs.io/en/latest/)
 - [pydocstyle](http://www.pydocstyle.org/en/4.0.1/index.html) - Check compliance with Python docstring conventions. (5 min)
 
