@@ -180,15 +180,19 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - TODO: Kafka is the opposite of RabbitMQ with "smart consumers" and a "dumb broker"
 - TODO: Kinesis streams
 
-## Developed by Radix
+## Curated by Radix
 
-At [Radix](https://radix.ai), we invent, design and develop robust and innovative AI-powered software solutions.
+[Radix](https://radix.ai) is a Belgium-based Machine Learning company.
+
+We invent, design and develop AI-powered software. Together with our clients, we identify which problems within organizations can be solved with AI, demonstrating the value of Artificial Intelligence for each problem.
+
+Our team is constantly looking for novel and better-performing solutions and we challenge each other to come up with the best ideas for our clients and our company.
 
 Here are some examples of what we do with Machine Learning, the technology behind AI:
-- Help job seekers find a job. On the [Belgian Public Employment Service website](https://www.vdab.be), we serve job recommendations based on your CV.
-- Help publishers calculate their impact, by detecting copycat articles.
-- Help travelers catch their flight by predicting waiting times in airports.
+- Help job seekers find great jobs that match their expectations. On the [Belgian Public Employment Service website](https://www.vdab.be), you can find our job recommendations based on your CV alone.
+- Help hospitals save time. We extract diagnosis from patient discharge letters.
+- Help publishers estimate their impact by detecting copycat articles.
 
-You can follow our adventures on [Medium](https://medium.com/radix-ai-blog).
+We work hard and we have fun together. We foster a culture of collaboration, where each team member feels supported when taking on a challenge, and trusted when taking on responsibility.
 
 <img width="100" src="https://radix.ai/wp-content/uploads/2019/09/radix_logo.png" alt="radix">
