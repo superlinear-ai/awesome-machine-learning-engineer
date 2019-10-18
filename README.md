@@ -177,7 +177,7 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - [ZeroMQ: a socket library with message queue primitives](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/patterns/pair.html)
 - [Redis: a key-value store with optional persistence](https://github.com/leohowell/redis-lru)
 - [RabbitMQ: a message queue library with persistance](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
-- TODO: Kafka is the opposite of RabbitMQ with "smart consumers" and a "dumb broker"
+- [Kafka is the opposite of RabbitMQ with "smart consumers" and a "dumb broker"](https://blog.usejournal.com/getting-started-with-kafka-5004c0a734c3)
 - TODO: Kinesis streams
 
 ## Curated by Radix
