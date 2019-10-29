@@ -133,6 +133,7 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 
 ### Package management
 
+- [Understanding Conda and Pip](https://www.anaconda.com/understanding-conda-and-pip/) - Know the advantages of Conda over Pip. (5 min)
 - [Conda tutorial](https://geohackweek.github.io/Introductory/01-conda-tutorial/) - Manage packages and reproducible environments using one tool. (15 min)
 - [Conda package index](https://www.anaconda.org/search) - Search for packages in Anaconda Cloud. (1 min)
 - [Conda myths](http://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/) - Debunk some common myths and misconceptions about Conda. (5 min)
