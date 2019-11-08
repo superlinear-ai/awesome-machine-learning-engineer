@@ -67,7 +67,8 @@
 
 ### Code review
 
-- [Google's "How to do a code review"](https://google.github.io/eng-practices/review/reviewer/) - How to code reviews your colleages will love. (20 min)
+- [Google's "How to do a code review"](https://google.github.io/eng-practices/review/reviewer/) - How to form code reviews your colleages will love. (20 min)
+- [Respectful refiews](https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html) - Resolve code review comments respectfully. (5 min)
 
 ### Python
 
