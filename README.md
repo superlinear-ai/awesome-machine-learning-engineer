@@ -53,6 +53,7 @@
 
 - [FastAPI docs](https://fastapi.tiangolo.com/tutorial/first-steps/) - Build RESTful APIs that correspond one-to-one with the OpenAPI spec. (1 hour)
 - [Zalando's RESTful API guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+- [Microsoft's REST API guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 - [gRPC compared to REST](https://eng.fromatob.com/post/2019/05/why-were-switching-to-grpc/) - Compare the two leading solutions for communication between services. (5 min)
 - [Terrifically Simple JSON](https://github.com/mpnally/Terrifically-Simple-JSON) - Represent data using JSON. (10 min)
 - [HTTP response headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer) - Improve user experience using HTTP headers. (2 min)
