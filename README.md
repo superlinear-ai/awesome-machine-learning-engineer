@@ -43,6 +43,7 @@
 - [MECE lists](https://www.oreilly.com/ideas/a-foundational-strategy-pattern-for-analysis-mece) - Write structured lists for documents, slides, and Slack. (10 min)
 - [Nonviolent communication](https://medium.com/s/please-advise/the-essential-guide-to-difficult-conversations-41f736e63ccf) - Deliver constructive feedback in difficult situations. (10 min)
 - [SMART goals](https://en.wikipedia.org/wiki/SMART_criteria) - Define goals in a structured way. (5 min)
+- [Sombody Else's Problem](https://en.wikipedia.org/wiki/Somebody_else%27s_problem) - Don't make it SEP. (1 min)
 - [The Halo effect](https://effectiviology.com/halo-effect/) - Account for the cognitive bias that might influence the way you view others. (10 min)
 - [SCQA/SCoRE stories and NOSE/SPIN sales pitches](http://jchyip.blogspot.com/2011/11/good-message-structure-underlies-all.html) - Structure presentations, proposals and sales interactions. (5 min)
 - [E-mail like a boss](https://images.app.goo.gl/KZtSNj8n7xxCLrGZ7) - Write useful e-mail phrases. (1 min)
