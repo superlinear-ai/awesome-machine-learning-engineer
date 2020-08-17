@@ -1,7 +1,7 @@
 # Awesome Machine Learning Engineer
 
 <div align="center">
-	<img width="500" height="350" src="https://github.com/sindresorhus/awesome/raw/master/media/logo.svg?sanitize=true" alt="Awesome">
+	<img width="500" height="350" src="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg?sanitize=true" alt="Awesome">
   
   A curated list of delightful Machine Learning Engineering resources. <br>
   The resources are structured as follows: *Title* - *Description* (*Reading time*) <br> The descriptions are written so that they complete the sentence *"After reading this article you will have learned to ..."*.
