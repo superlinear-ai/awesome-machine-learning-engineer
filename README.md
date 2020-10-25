@@ -27,7 +27,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ## Communication
 
-- :hatched_chick: [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - Make your emails and communication more powerful. (5 min)
+- :hatched_chick: [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - Make your communication more powerful. (5 min)
 - :hatched_chick: [The XY Problem](http://xyproblem.info/) - Focus on explaining your end goal when asking for help. (5 min)
 - :snake: [Understanding MECE](https://strategyu.co/wtf-is-mece-mutually-exclusive-collectively-exhaustive/) - Write structured lists in your documents and communication. (10 min)
 - :unicorn: [Nonviolent communication](https://medium.com/s/please-advise/the-essential-guide-to-difficult-conversations-41f736e63ccf) - Deliver constructive feedback in difficult situations. (10 min)
@@ -41,15 +41,14 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### API design
 
-- [FastAPI docs](https://fastapi.tiangolo.com/tutorial/first-steps/) - Build RESTful APIs that correspond one-to-one with the OpenAPI spec. (1 hour)
-- [Zalando's RESTful API guidelines](https://opensource.zalando.com/restful-api-guidelines/)
-- [Microsoft's REST API guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
-- [gRPC compared to REST](https://eng.fromatob.com/post/2019/05/why-were-switching-to-grpc/) - Compare the two leading solutions for communication between services. (5 min)
-- [Terrifically Simple JSON](https://github.com/mpnally/Terrifically-Simple-JSON) - Represent data using JSON. (10 min)
-- [HTTP response headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer) - Improve user experience using HTTP headers. (2 min)
-- [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) - Avoid most of the assumptions made about time. (2 min)
-- [Falsehoods programmers believe about names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - Avoid most of the assumptions made about personal names. (5 min)
-- [Semantic versioning](https://semver.org/) - Assign and increment version numbers of projects. (10 min)
+- :snake: [FastAPI docs](https://fastapi.tiangolo.com/tutorial/first-steps/) - Build RESTful APIs that correspond one-to-one with the OpenAPI spec. (1-X hours)
+- :unicorn: [Zalando's RESTful API guidelines](https://opensource.zalando.com/restful-api-guidelines/) - Design sustainable REST APIs. (X hours)
+- :unicorn: [Microsoft's REST API guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md) - Design sustainable REST APIs. (X hours)
+- :unicorn: [gRPC compared to REST](https://eng.fromatob.com/post/2019/05/why-were-switching-to-grpc/) - Compare the two leading solutions for communication between services. (5 min)
+- :unicorn: [HTTP response headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer) - Optimize your APIs with HTTP headers. (2 min)
+- :snake: [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) - Avoid most of the assumptions made about time. (2 min)
+- :snake: [Falsehoods programmers believe about names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - Avoid most of the assumptions made about personal names. (5 min)
+- :hatched_chick: [Semantic versioning](https://semver.org/) - Assign and increment version numbers of your software. (10 min)
 
 ### Version control
 
