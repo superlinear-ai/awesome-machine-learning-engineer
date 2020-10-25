@@ -35,7 +35,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 - :hatched_chick: [Sombody else's problem](https://en.wikipedia.org/wiki/Somebody_else%27s_problem) - Don't make it SEP. (1 min)
 - :unicorn: [The Halo effect](https://effectiviology.com/halo-effect/) - Account for the cognitive bias that might influence the way you view others. (10 min)
 - :snake: [SCQA: What is it, how does it work, and how can it help me?](https://analytic-storytelling.com/scqa-what-is-it-how-does-it-work-and-how-can-it-help-me/) - Structure your presentation, proposals, and sales outlines. (5 min)
-- :snake: [E-mail like a boss](https://pbs.twimg.com/media/D7LgaoMW4Acy6hL?format=jpg&name=large) - Write better e-mails. (1 min)
+- :hatched_chick: [E-mail like a boss](https://pbs.twimg.com/media/D7LgaoMW4Acy6hL?format=jpg&name=large) - Write better e-mails. (1 min)
 
 ## Software Engineering
 
@@ -52,13 +52,13 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### Version control
 
-- [Learn Git Branching](https://learngitbranching.js.org/) - Work on your version control skills at beginner or advanced level. (10 min and more)
-- [The seven rules of a great Git commit message](https://chris.beams.io/posts/git-commit/) - Write concise and consistent Git commit messages. (10 min)
+- :snake: [Learn Git Branching](https://learngitbranching.js.org/) - Work on your version control skills at beginner or advanced level. (1 hour)
+- :hatched_chick: [The seven rules of a great Git commit message](https://chris.beams.io/posts/git-commit/) - Write concise and consistent Git commit messages. (5 min)
 
 ### Code review
 
-- [Google's "How to do a code review"](https://google.github.io/eng-practices/review/reviewer/) - How to form code reviews your colleages will love. (20 min)
-- [Respectful refiews](https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html) - Resolve code review comments respectfully. (5 min)
+- :snake: [Google's "How to do a code review"](https://google.github.io/eng-practices/review/reviewer/) - Review code in a way your colleagues will love (Note: Change List ~= Pull Request). (30 min)
+- :snake: [Code Health: Respectful Reviews == Useful Reviews](https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html) - Resolve code review comments respectfully. (5 min)
 
 ### Python patterns
 
