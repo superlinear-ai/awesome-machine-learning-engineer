@@ -38,7 +38,11 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 - :hatched_chick: [E-mail like a boss](https://pbs.twimg.com/media/D7LgaoMW4Acy6hL?format=jpg&name=large) - Write better e-mails. (1 min)
 - :unicorn: [Mythical Man Month - The Cliff Notes](https://8thlight.com/blog/sue-kim/2013/01/31/mythical-man-month-cliff-notes.html) - Understand the relationship between person-days and throughput time in a project (5 min)
 - :hatched_chick: [Bike-shedding: how mature are you as an engineer?](https://no-kill-switch.ghost.io/bike-shedding-how-mature-are-you-as-an-engineer/) - Call out and avoid bike-shedding. (5 min)
-- 
+- :hatched_chick: [Presentation Rules](http://www.jilles.net/perma/2020/06/05/presentation-rules.html) - Make your slides satisfy essential best practices. (5 min)
+- :unicorn: [Four-sides model](https://en.wikipedia.org/wiki/Four-sides_model) - Carefully consider what you communicate to optimize its result. (15 min)
+- :hatched_chick: [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html) - Write in plain English. (15 min)
+- :snake: [No More Misunderstandings](https://smallbigideas.substack.com/p/no-more-misunderstandings) - Avoid misunderstandings by paraphrasing. (15 min)
+
 
 ## Software Engineering
 
@@ -52,11 +56,13 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 - :snake: [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) - Avoid most of the assumptions made about time. (2 min)
 - :snake: [Falsehoods programmers believe about names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - Avoid most of the assumptions made about personal names. (5 min)
 - :hatched_chick: [Semantic versioning](https://semver.org/) - Assign and increment version numbers of your software. (10 min)
+- :unicorn: [Keep a changelog](https://keepachangelog.com/) - Keep a well-maintained changelog in your software. (10 min)
 
 ### Version control
 
 - :snake: [Learn Git Branching](https://learngitbranching.js.org/) - Work on your version control skills at beginner or advanced level. (1 hour)
 - :hatched_chick: [The seven rules of a great Git commit message](https://chris.beams.io/posts/git-commit/) - Write concise and consistent Git commit messages. (5 min)
+- :snake: [Trunk Based Development](https://trunkbaseddevelopment.com/) - Use a simple branching approach that scales well to teams. (10 min)
 
 ### Code review
 
@@ -69,9 +75,11 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 - [PEP8 style guide, and why it is important](https://pragmaticcoders.com/blog/pep8-and-why-is-it-important/) - What PEPs are and what PEP8 is. (5 min)
 - [PEP20 "The Zen of Python"](https://www.python.org/dev/peps/pep-0020/) - Get to know the guiding principles for Python's design. (1 min)
 - [Python Design Patterns](https://python-patterns.guide) - High-level software engineering architecture patterns in Python. (30 min)
+- [SOLID](https://en.wikipedia.org/wiki/SOLID) - High-level software engineering architecture principles. (30 min)
 - [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/) - Low-level Python idioms. (45 min)
 - [Understanding Python's logging module](https://www.electricmonk.nl/log/2017/08/06/understanding-pythons-logging-module/) - Use the `logging` module effectively. (10 min)
 - [Please fix your decorators](https://hynek.me/articles/decorators/) - Why you should probably use [`wrapt`](https://github.com/GrahamDumpleton/wrapt) to write your decorators. (10 min)
+- [Effective Python](https://github.com/SigmaQuan/Better-Python-59-Ways/blob/master/README.md) - Apply 59 ways to write better Python (X hours)
 
 ### Linting
 
@@ -84,17 +92,18 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 - [hypothesis-auto](https://timothycrosley.github.io/hypothesis-auto) - Write fully automatic unit tests based on type annotations. (30 min)
 
-### Type annotation
+### Typing
 
-- [Getting started with Mypy](https://mypy.readthedocs.io/en/stable/getting_started.html)
-- [The state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/)
-- [Leveraging type system to avoid mistakes](https://www.beyondthelines.net/programming/leveraging-the-type-system-to-avoid-mistakes/)
-- [Mypy protocols](https://mypy.readthedocs.io/en/latest/protocols.html)
-- [Facebook's type checker Pyre](https://pyre-check.org/)
+- :hatched_chick: [Python Type Hints](https://kunigami.blog/2019/12/26/python-type-hints/) - How to apply both basic and advanced type hints. (5 min)
+- :hatched_chick: [The state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/) - Why you should be using type hints. (5 min)
+- :hatced_chick: [Leveraging type system to avoid mistakes](https://www.beyondthelines.net/programming/leveraging-the-type-system-to-avoid-mistakes/) - More motivation why you should be using type hints. (5 min)
+- :unicorn: [Mypy protocols](https://mypy.readthedocs.io/en/latest/protocols.html) - Use advanced concepts such as Protocols. (15 min)
+- :snake: [Pydantic overview](https://pydantic-docs.helpmanual.io/) - Stop writing `Dict[str, Any]` type hints and instead use `BaseModel`s. (10 min - 1 hour)
+- :snake: [Enums](https://pydantic-docs.helpmanual.io/usage/types/#enums-and-choices) - Stop writing magic `str`s and instead use `Enum`s. (5 min)
 
 ## Machine Learning
 
-### Practical Theory
+### Practical theory
 
 _While, in theory, you can just download Tensorflow and start making deep neural networks, it doesn’t hurt to know some of the theory and philosophy that lies behind the algorithms that so many of us know and love today._
 
@@ -106,6 +115,7 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - [Stacking strategies with and without leaks](https://www.kaggle.com/general/18793) - Choose the right cross-validation strategy when stacking. (15 min)
 - [Backpropagation is the chain rule to compute the gradient](https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html) - Make the connection between backpropagation and the chain rule. (20 min)
 - [Backprop is not just the chain rule](https://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/) - Make the connection between backpropagation and Lagrange multipliers. (20 min)
+- [You're all calculating churn rates wrong](https://catchjs.com/Blog/Churn) - Correctly define what churn is. (15 min)
 
 ### Pandas
 
@@ -132,7 +142,9 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 
 - [Docker getting started](https://docs.docker.com/get-started/)
 - [Dockerfile best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) - Build efficient images (30 min)
-- [Dockerizing python is hard](https://pythonspeed.com/articles/dockerizing-python-is-hard/)
+- [Dockerizing Python is hard](https://pythonspeed.com/articles/dockerizing-python-is-hard/)
+- [Multi-stage builds #3: Why your build is surprisingly slow, and how to speed it up](https://pythonspeed.com/articles/faster-multi-stage-builds/)
+- [BuildKit Features You Might Want to Know About](https://vsupalov.com/docker-buildkit-features/)
 
 ### Shell
 
@@ -149,6 +161,7 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - [Redis: a key-value store with optional persistence](https://github.com/leohowell/redis-lru)
 - [RabbitMQ: a message queue library with persistance](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
 - [Kafka is the opposite of RabbitMQ with "smart consumers" and a "dumb broker"](https://blog.usejournal.com/getting-started-with-kafka-5004c0a734c3)
+- [What Every Software Engineer Should Know about Apache Kafka](https://www.michael-noll.com/blog/2020/01/16/what-every-software-engineer-should-know-about-apache-kafka-fundamentals/)
 
 ## Related awesome lists
 
@@ -174,6 +187,7 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - TODO: Tech in our pure cookiecutter scaffolding.
 - TODO: Cherry picking?
 - TODO: MLOps
+- TODO: KISS
 
 ## Curated by Radix
 
