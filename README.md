@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="500" height="350" src="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg?sanitize=true" alt="Awesome">
+<img height="280" src="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg?sanitize=true" alt="Awesome">
 
 For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome).
 
@@ -27,15 +27,15 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ## Communication
 
-- [BLUF: The Military Standard](https://www.animalz.co/blog/bottom-line-up-front/) - Make your emails and communication more powerful. (5 min)
-- [The XY problem](http://xyproblem.info/) - Focus on explaining your end goal when asking for help. (5 min)
-- [MECE lists](https://www.oreilly.com/ideas/a-foundational-strategy-pattern-for-analysis-mece) - Write structured lists for documents, slides, and Slack. (10 min)
-- [Nonviolent communication](https://medium.com/s/please-advise/the-essential-guide-to-difficult-conversations-41f736e63ccf) - Deliver constructive feedback in difficult situations. (10 min)
-- [SMART goals](https://en.wikipedia.org/wiki/SMART_criteria) - Define goals in a structured way. (5 min)
-- [Sombody Else's Problem](https://en.wikipedia.org/wiki/Somebody_else%27s_problem) - Don't make it SEP. (1 min)
-- [The Halo effect](https://effectiviology.com/halo-effect/) - Account for the cognitive bias that might influence the way you view others. (10 min)
-- [SCQA/SCoRE stories and NOSE/SPIN sales pitches](http://jchyip.blogspot.com/2011/11/good-message-structure-underlies-all.html) - Structure presentations, proposals and sales interactions. (5 min)
-- [E-mail like a boss](https://images.app.goo.gl/KZtSNj8n7xxCLrGZ7) - Write useful e-mail phrases. (1 min)
+- :hatched_chick: [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - Make your emails and communication more powerful. (5 min)
+- :hatched_chick: [The XY Problem](http://xyproblem.info/) - Focus on explaining your end goal when asking for help. (5 min)
+- :snake: [Understanding MECE](https://strategyu.co/wtf-is-mece-mutually-exclusive-collectively-exhaustive/) - Write structured lists in your documents and communication. (10 min)
+- :unicorn: [Nonviolent communication](https://medium.com/s/please-advise/the-essential-guide-to-difficult-conversations-41f736e63ccf) - Deliver constructive feedback in difficult situations. (10 min)
+- :snake: [SMART criteria](https://en.wikipedia.org/wiki/SMART_criteria) - Define goals in a structured way. (5 min)
+- :hatched_chick: [Sombody else's problem](https://en.wikipedia.org/wiki/Somebody_else%27s_problem) - Don't make it SEP. (1 min)
+- :unicorn: [The Halo effect](https://effectiviology.com/halo-effect/) - Account for the cognitive bias that might influence the way you view others. (10 min)
+- :snake: [SCQA: What is it, how does it work, and how can it help me?](https://analytic-storytelling.com/scqa-what-is-it-how-does-it-work-and-how-can-it-help-me/) - Structure your presentation, proposals, and sales outlines. (5 min)
+- :snake: [E-mail like a boss](https://pbs.twimg.com/media/D7LgaoMW4Acy6hL?format=jpg&name=large) - Write better e-mails. (1 min)
 
 ## Software Engineering
 
