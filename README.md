@@ -39,7 +39,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 - :unicorn: [Mythical Man Month - The Cliff Notes](https://8thlight.com/blog/sue-kim/2013/01/31/mythical-man-month-cliff-notes.html) - Understand the relationship between person-days and throughput time in a project (5 min)
 - :hatched_chick: [Bike-shedding: how mature are you as an engineer?](https://no-kill-switch.ghost.io/bike-shedding-how-mature-are-you-as-an-engineer/) - Call out and avoid bike-shedding. (5 min)
 - :hatched_chick: [Presentation Rules](http://www.jilles.net/perma/2020/06/05/presentation-rules.html) - Make your slides satisfy essential best practices. (5 min)
-- :unicorn: [Four-sides model](https://en.wikipedia.org/wiki/Four-sides_model) - Carefully consider what you communicate to optimize its result. (15 min)
+- :unicorn: [Four-sides model](https://en.wikipedia.org/wiki/Four-sides_model) - Carefully consider how you communicate to optimize its result. (15 min)
 - :hatched_chick: [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html) - Write in plain English. (15 min)
 - :snake: [No More Misunderstandings](https://smallbigideas.substack.com/p/no-more-misunderstandings) - Avoid misunderstandings by paraphrasing. (15 min)
 
