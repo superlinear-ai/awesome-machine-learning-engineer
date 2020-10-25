@@ -1,14 +1,22 @@
 # Awesome Machine Learning Engineer
 
 <div align="center">
-	<img width="500" height="350" src="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg?sanitize=true" alt="Awesome">
-  
-  A curated list of delightful Machine Learning Engineering resources. <br>
-  The resources are structured as follows: *Title* - *Description* (*Reading time*) <br> The descriptions are written so that they complete the sentence *"After reading this article you will have learned to ..."*.
-  
-  For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome).
+
+<img width="500" height="350" src="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg?sanitize=true" alt="Awesome">
+
+For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome).
 
 </div>
+
+## What is this and how do I use it?
+
+- This is a curated list of delightful resources for everything you need to develop Machine Learning solutions.
+- All resources are structured as follows: *[Content level]* *[Page title]* - *[Description]* (*[Reading time]*).
+  - There are three content levels:
+    1. :hatched_chick: Essential reading for all ML engineers
+    2. :snake: Advanced reading for professional ML engineers
+    3. :unicorn: Expert material for expert ML engineers
+  - Descriptions are written so that they complete the sentence *"After reading this article you will have learned to ..."*.
 
 ## Contents
 
