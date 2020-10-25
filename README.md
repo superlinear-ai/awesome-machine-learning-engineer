@@ -148,7 +148,6 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 ### Terraform
 
 - [Terraform best practices](https://github.com/BWITS/terraform-best-practices)
-- TODO: Linting built-in to Terraform with `-check`.
 
 ### Infrastructure
 
@@ -179,6 +178,7 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - TODO: OSS license scan
 - TODO: mutual TLS, IP whitelisting, (VPN)
 - TODO: Kinesis streams
+- TODO: Linting built-in to Terraform with `-check`.
 
 ## Curated by Radix
 
@@ -195,4 +195,4 @@ Here are some examples of what we do with Machine Learning, the technology behin
 
 We work hard and we have fun together. We foster a culture of collaboration, where each team member feels supported when taking on a challenge, and trusted when taking on responsibility.
 
-<img width="270" src="https://radix-ai-static-assets.s3-accelerate.amazonaws.com/radix_logo_with_baseline@2x.png" alt="radix">
+<img width="135" src="https://radix-ai-static-assets.s3-accelerate.amazonaws.com/radix_logo_with_baseline@2x.png" alt="radix">
