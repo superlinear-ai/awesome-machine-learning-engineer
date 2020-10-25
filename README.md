@@ -36,6 +36,9 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 - :unicorn: [The Halo effect](https://effectiviology.com/halo-effect/) - Account for the cognitive bias that might influence the way you view others. (10 min)
 - :snake: [SCQA: What is it, how does it work, and how can it help me?](https://analytic-storytelling.com/scqa-what-is-it-how-does-it-work-and-how-can-it-help-me/) - Structure your presentation, proposals, and sales outlines. (5 min)
 - :hatched_chick: [E-mail like a boss](https://pbs.twimg.com/media/D7LgaoMW4Acy6hL?format=jpg&name=large) - Write better e-mails. (1 min)
+- :unicorn: [Mythical Man Month - The Cliff Notes](https://8thlight.com/blog/sue-kim/2013/01/31/mythical-man-month-cliff-notes.html) - Understand the relationship between person-days and throughput time in a project (5 min)
+- :hatched_chick: [Bike-shedding: how mature are you as an engineer?](https://no-kill-switch.ghost.io/bike-shedding-how-mature-are-you-as-an-engineer/) - Call out and avoid bike-shedding. (5 min)
+- 
 
 ## Software Engineering
 
@@ -104,6 +107,10 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - [Backpropagation is the chain rule to compute the gradient](https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html) - Make the connection between backpropagation and the chain rule. (20 min)
 - [Backprop is not just the chain rule](https://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/) - Make the connection between backpropagation and Lagrange multipliers. (20 min)
 
+### Pandas
+
+- :snake: [Modern Pandas series (Part 1 - 7)](https://tomaugspurger.github.io/modern-1-intro.html) - Write idiomatic pandas. (1 hour)
+
 ### Sklearn
 
 - [Custom Estimators](http://danielhnyk.cz/creating-your-own-estimator-scikit-learn/) - Create your own custom estimator (20 min)
@@ -164,6 +171,9 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - TODO: mutual TLS, IP whitelisting, (VPN)
 - TODO: Kinesis streams
 - TODO: Linting built-in to Terraform with `-check`.
+- TODO: Tech in our pure cookiecutter scaffolding.
+- TODO: Cherry picking?
+- TODO: MLOps
 
 ## Curated by Radix
 
