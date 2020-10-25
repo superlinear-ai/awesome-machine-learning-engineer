@@ -14,26 +14,8 @@
 
 - [Communication](#communication)
 - [Software Engineering](#software-engineering)
-  - [API design](#api-design)
-  - [Version control](#version-control)
-  - [Code review](#code-review)
-  - [Python](#python)
-    - [Patterns](#patterns)
-    - [Linting](#linting)
-    - [Testing](#testing)
-    - [Type annotation](#type-annotation)
 - [Machine Learning](#machine-learning)
-  - [Practical Theory](#practical-theory)
-  - [Sklearn](#sklearn)
 - [DevOps](#devops)
-  - [Package management](#package-management)
-  - [Containerization](#containerization)
-  - [Shell](#shell)
-  - [Terraform](#terraform)
-  - [Security](#security)
-  - [Infrastructure](#infrastructure)
-    - [Datastores](#datastores)
-    - [Message queues](#message-queues)
 
 ## Communication
 
@@ -71,9 +53,7 @@
 - [Google's "How to do a code review"](https://google.github.io/eng-practices/review/reviewer/) - How to form code reviews your colleages will love. (20 min)
 - [Respectful refiews](https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html) - Resolve code review comments respectfully. (5 min)
 
-### Python
-
-#### Patterns
+### Python patterns
 
 - [The Definitive Guide to Python import Statements](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html) - Resolve common importing problems. (15 min)
 - [PEP8 style guide, and why it is important](https://pragmaticcoders.com/blog/pep8-and-why-is-it-important/) - What PEPs are and what PEP8 is. (5 min)
@@ -83,18 +63,18 @@
 - [Understanding Python's logging module](https://www.electricmonk.nl/log/2017/08/06/understanding-pythons-logging-module/) - Use the `logging` module effectively. (10 min)
 - [Please fix your decorators](https://hynek.me/articles/decorators/) - Why you should probably use [`wrapt`](https://github.com/GrahamDumpleton/wrapt) to write your decorators. (10 min)
 
-#### Linting
+### Linting
 
 - [Flake8](http://flake8.pycqa.org/en/latest/manpage.html) - Enforce code style consistency in a Python project. (10 min) 
 - [Flake8 extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - Pick the right Flake8 extensions.
 - [Pylint](https://pylint.readthedocs.io/en/latest/)
 - [pydocstyle](http://www.pydocstyle.org/en/4.0.1/index.html) - Check compliance with Python docstring conventions. (5 min)
 
-#### Testing
+### Testing
 
 - [hypothesis-auto](https://timothycrosley.github.io/hypothesis-auto) - Write fully automatic unit tests based on type annotations. (30 min)
 
-#### Type annotation
+### Type annotation
 
 - [Getting started with Mypy](https://mypy.readthedocs.io/en/stable/getting_started.html)
 - [The state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/)
@@ -150,8 +130,6 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - [Terraform best practices](https://github.com/BWITS/terraform-best-practices)
 
 ### Infrastructure
-
-#### Message queues
 
 - [ZeroMQ: a socket library with message queue primitives](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/patterns/pair.html)
 - [Redis: a key-value store with optional persistence](https://github.com/leohowell/redis-lru)
