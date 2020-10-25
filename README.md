@@ -96,7 +96,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 - :hatched_chick: [Python Type Hints](https://kunigami.blog/2019/12/26/python-type-hints/) - How to apply both basic and advanced type hints. (5 min)
 - :hatched_chick: [The state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/) - Why you should be using type hints. (5 min)
-- :hatced_chick: [Leveraging type system to avoid mistakes](https://www.beyondthelines.net/programming/leveraging-the-type-system-to-avoid-mistakes/) - More motivation why you should be using type hints. (5 min)
+- :hatched_chick: [Leveraging type system to avoid mistakes](https://www.beyondthelines.net/programming/leveraging-the-type-system-to-avoid-mistakes/) - More motivation why you should be using type hints. (5 min)
 - :unicorn: [Mypy protocols](https://mypy.readthedocs.io/en/latest/protocols.html) - Use advanced concepts such as Protocols. (15 min)
 - :snake: [Pydantic overview](https://pydantic-docs.helpmanual.io/) - Stop writing `Dict[str, Any]` type hints and instead use `BaseModel`s. (10 min - 1 hour)
 - :snake: [Enums](https://pydantic-docs.helpmanual.io/usage/types/#enums-and-choices) - Stop writing magic `str`s and instead use `Enum`s. (5 min)
