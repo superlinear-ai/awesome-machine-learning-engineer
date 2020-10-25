@@ -18,8 +18,7 @@
   - [Version control](#version-control)
   - [Code review](#code-review)
   - [Python](#python)
-    - [Ideology](#ideology)
-    - [Logging](#logging)
+    - [Patterns](#patterns)
     - [Linting](#linting)
     - [Testing](#testing)
     - [Type annotation](#type-annotation)
@@ -74,18 +73,15 @@
 
 ### Python
 
-#### Ideology
+#### Patterns
 
 - [The Definitive Guide to Python import Statements](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html) - Resolve common importing problems. (15 min)
+- [PEP8 style guide, and why it is important](https://pragmaticcoders.com/blog/pep8-and-why-is-it-important/) - What PEPs are and what PEP8 is. (5 min)
 - [PEP20 "The Zen of Python"](https://www.python.org/dev/peps/pep-0020/) - Get to know the guiding principles for Python's design. (1 min)
-- [PEP8, and why it is important](https://pragmaticcoders.com/blog/pep8-and-why-is-it-important/) - Write consistent code with high readability. (5 min)
-- [Python patterns](https://python-patterns.guide)
-- [Python anti-patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
-- TODO: Raymond Hettinger
-
-#### Logging
-
-- [Logging best practices and gotchas](https://www.electricmonk.nl/log/2017/08/06/understanding-pythons-logging-module/) - Understand the `logging` module. (10 min)
+- [Python Design Patterns](https://python-patterns.guide) - High-level software engineering architecture patterns in Python. (30 min)
+- [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/) - Low-level Python idioms. (45 min)
+- [Understanding Python's logging module](https://www.electricmonk.nl/log/2017/08/06/understanding-pythons-logging-module/) - Use the `logging` module effectively. (10 min)
+- [Please fix your decorators](https://hynek.me/articles/decorators/) - Why you should probably use [`wrapt`](https://github.com/GrahamDumpleton/wrapt) to write your decorators. (10 min)
 
 #### Linting
 
@@ -105,7 +101,6 @@
 - [Leveraging type system to avoid mistakes](https://www.beyondthelines.net/programming/leveraging-the-type-system-to-avoid-mistakes/)
 - [Mypy protocols](https://mypy.readthedocs.io/en/latest/protocols.html)
 - [Facebook's type checker Pyre](https://pyre-check.org/)
-- TODO: Mypy strict mode.
 
 ## Machine Learning
 
@@ -122,15 +117,12 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - [Backpropagation is the chain rule to compute the gradient](https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html) - Make the connection between backpropagation and the chain rule. (20 min)
 - [Backprop is not just the chain rule](https://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/) - Make the connection between backpropagation and Lagrange multipliers. (20 min)
 
-
 ### Sklearn
 
 - [Custom Estimators](http://danielhnyk.cz/creating-your-own-estimator-scikit-learn/) - Create your own custom estimator (20 min)
 - [Pipelines](http://scikit-learn.org/stable/modules/pipeline.html) - Combine transformers and estimators into pipelines (15 min)
 - [Pipelines and custom Estimators](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
 - [Tuning hyperparameters](https://scikit-learn.org/stable/modules/grid_search.html) - Implement grid search and randomized search for parameter optimization. (10 min)
-- TODO: Gridsearch vs random search vs Bayesian hyperparam optimization (gaussian processes)
-- TODO: Comparison of bayesian hyperparam optimizers (PyGPGO)
 
 ## DevOps
 
@@ -141,16 +133,12 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - [Conda package index](https://www.anaconda.org/search) - Search for packages in Anaconda Cloud. (1 min)
 - [Conda myths](http://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/) - Debunk some common myths and misconceptions about Conda. (5 min)
 - [Conda in-depth](https://www.slideshare.net/AaronMeurer/conda-a-binary-scipy2014)
-- TODO: conda vs virtualenv, pyenv, pipenv.
-- TODO: explain how conda-forge works.
-- TODO: explain environment.yml + interactions with Docker.
 
 ### Containerization
 
 - [Docker getting started](https://docs.docker.com/get-started/)
 - [Dockerfile best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) - Build efficient images (30 min)
 - [Dockerizing python is hard](https://pythonspeed.com/articles/dockerizing-python-is-hard/)
-- TODO: explain registries (Docker Hub, ECR, GitLab)
 
 ### Shell
 
@@ -162,19 +150,7 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - [Terraform best practices](https://github.com/BWITS/terraform-best-practices)
 - TODO: Linting built-in to Terraform with `-check`.
 
-### Security
-
-- TODO: CVE scans (frontend and backend)
-- TODO: OSS license scan
-- TODO: mutual TLS, IP whitelisting, (VPN)
-
 ### Infrastructure
-
-#### Datastores
-
-- TODO: S3
-- TODO: DynamoDB
-- TODO: MongoDB
 
 #### Message queues
 
@@ -182,6 +158,26 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - [Redis: a key-value store with optional persistence](https://github.com/leohowell/redis-lru)
 - [RabbitMQ: a message queue library with persistance](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
 - [Kafka is the opposite of RabbitMQ with "smart consumers" and a "dumb broker"](https://blog.usejournal.com/getting-started-with-kafka-5004c0a734c3)
+
+## Related awesome lists
+
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - A collection of skills that are often expected to be self-taught.
+- [A Survey of Deep Learning for Scientific Discovery](https://arxiv.org/abs/2003.11755) - An overview of Deep Learning tasks and approaches.
+
+## To add
+
+- TODO: Mypy strict mode.
+- TODO: Raymond Hettinger
+- TODO: Gridsearch vs random search vs Bayesian hyperparam optimization (gaussian processes)
+- TODO: Comparison of bayesian hyperparam optimizers (PyGPGO)
+- TODO: conda vs virtualenv, pyenv, pipenv.
+- TODO: explain how conda-forge works.
+- TODO: explain registries (Docker Hub, ECR, GitLab)
+- TODO: explain environment.yml + interactions with Docker.
+- TODO: S3, DynamoDB, MongoDB
+- TODO: CVE scans (frontend and backend)
+- TODO: OSS license scan
+- TODO: mutual TLS, IP whitelisting, (VPN)
 - TODO: Kinesis streams
 
 ## Curated by Radix
@@ -199,4 +195,4 @@ Here are some examples of what we do with Machine Learning, the technology behin
 
 We work hard and we have fun together. We foster a culture of collaboration, where each team member feels supported when taking on a challenge, and trusted when taking on responsibility.
 
-<img width="100" src="https://radix.ai/wp-content/uploads/2019/09/radix_logo.png" alt="radix">
+<img width="270" src="https://radix-ai-static-assets.s3-accelerate.amazonaws.com/radix_logo_with_baseline@2x.png" alt="radix">
