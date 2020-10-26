@@ -43,7 +43,6 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 - :hatched_chick: [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html) - Write in plain English. (15 min)
 - :snake: [No More Misunderstandings](https://smallbigideas.substack.com/p/no-more-misunderstandings) - Avoid misunderstandings by paraphrasing. (15 min)
 
-
 ## Software Engineering
 
 ### API design
@@ -81,17 +80,6 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 - :snake: [Please fix your decorators](https://hynek.me/articles/decorators/) - Why you should probably use [`wrapt`](https://github.com/GrahamDumpleton/wrapt) to write your decorators. (10 min)
 - :unicorn: [Effective Python](https://github.com/SigmaQuan/Better-Python-59-Ways/blob/master/README.md) - Apply 59 ways to write better Python (X hours)
 
-### Linting
-
-- [Flake8](http://flake8.pycqa.org/en/latest/manpage.html) - Enforce code style consistency in a Python project. (10 min) 
-- [Flake8 extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - Pick the right Flake8 extensions.
-- [Pylint](https://pylint.readthedocs.io/en/latest/)
-- [pydocstyle](http://www.pydocstyle.org/en/4.0.1/index.html) - Check compliance with Python docstring conventions. (5 min)
-
-### Testing
-
-- [hypothesis-auto](https://timothycrosley.github.io/hypothesis-auto) - Write fully automatic unit tests based on type annotations. (30 min)
-
 ### Typing
 
 - :hatched_chick: [Python Type Hints](https://kunigami.blog/2019/12/26/python-type-hints/) - How to apply both basic and advanced type hints. (5 min)
@@ -100,6 +88,21 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 - :unicorn: [Mypy protocols](https://mypy.readthedocs.io/en/latest/protocols.html) - Use advanced concepts such as Protocols. (15 min)
 - :snake: [Pydantic overview](https://pydantic-docs.helpmanual.io/) - Stop writing `Dict[str, Any]` type hints and instead use `BaseModel`s. (10 min - 1 hour)
 - :snake: [Enums](https://pydantic-docs.helpmanual.io/usage/types/#enums-and-choices) - Stop writing magic `str`s and instead use `Enum`s. (5 min)
+
+### Curated Python packages
+
+- :hatched_chick: [Black: The Uncompromising Code Formatter](https://github.com/psf/black) - Use Black to end all formatting discussions. (5 min)
+- :snake: [bump2version](https://github.com/c4urself/bump2version) - Release new versions of your packages with a single command. (15 min)
+- :snake: [coloredlogs: Colored terminal output for Python's logging module](https://coloredlogs.readthedocs.io/en/latest/readme.html) - Scan logs more easily by coloring them with a one-line install. (1 min)
+- :snake: [hvPlot: A high-level plotting API for the PyData ecosystem built on HoloViews](https://hvplot.holoviz.org/) - Use a pandas to create plots with Holoviews, rendered by Bokeh. (30 min)
+- :hatched_chick: [Flake8](http://flake8.pycqa.org/en/latest/manpage.html) - Use Flake8: pyflakes for common errors, pycodestyle for PEP8-compiancy, and mccabe for code complexity. (10 min)
+- :snake: [Portray: Your Project with Great Documentation](https://timothycrosley.github.io/portray/) - Generate documentation for your projects with no configuration. (30 min)
+- :snake: [pydocstyle](http://www.pydocstyle.org/en/4.0.1/index.html) - Use pydocstyle to check compliance with Python docstring conventions. (5 min)
+- :snake: [birdseye](https://github.com/alexmojaki/birdseye) - Graphically debug your Python code. (10 min)
+- :unicorn: [hypothesis-auto](https://timothycrosley.github.io/hypothesis-auto) - Write fully automatic unit tests based on type annotations. (30 min)
+- :snake: [scalene: a high-performance CPU and memory profiler for Python](https://github.com/emeryberger/scalene) - Profile CPU and memory usage by line in Python. (10 min)
+- :snake: [SnakeViz](https://jiffyclub.github.io/snakeviz/) - Use an interactive profiler in Jupyter Lab to identify bottlenecks. (10 min)
+- :snake: [tqdm](https://github.com/tqdm/tqdm) - Easily add progress bars to long-running jobs. (5 min)
 
 ## Machine Learning
 
@@ -129,6 +132,10 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - [Tuning hyperparameters](https://scikit-learn.org/stable/modules/grid_search.html) - Implement grid search and randomized search for parameter optimization. (10 min)
 
 ## DevOps
+
+### CI/CD
+
+- :snake: [invoke](http://www.pyinvoke.org/) - Implement common tasks you run on your projects as a CLI. (30 min)
 
 ### Package management
 
@@ -167,6 +174,7 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - A collection of skills that are often expected to be self-taught.
 - [A Survey of Deep Learning for Scientific Discovery](https://arxiv.org/abs/2003.11755) - An overview of Deep Learning tasks and approaches.
+- [Flake8 extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - An overview of Flake8 extensions.
 
 ## To add
 
@@ -187,7 +195,13 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - TODO: Tech in our pure cookiecutter scaffolding.
 - TODO: Cherry picking?
 - TODO: MLOps
-- TODO: KISS
+- TODO: KISS, DRY
+- TODO: mamba
+- TODO: pre-commit
+- TODO: selected Flake8 extensions
+- TODO: selected Pytest extensions
+- TODO: cookiecutter & cruft (as a standalone repo?)
+- TODO: https://pypi.org/project/snoop/
 
 ## Curated by Radix
 
