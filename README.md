@@ -94,7 +94,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 - :hatched_chick: [Black: The Uncompromising Code Formatter](https://github.com/psf/black) - Use Black to end all formatting discussions. (5 min)
 - :snake: [bump2version](https://github.com/c4urself/bump2version) - Release new versions of your packages with a single command. (15 min)
 - :snake: [coloredlogs: Colored terminal output for Python's logging module](https://coloredlogs.readthedocs.io/en/latest/readme.html) - Scan logs more easily by coloring them. (1 min)
-- :snake: [hvPlot: A high-level plotting API for the PyData ecosystem](https://hvplot.holoviz.org/) - Use a pandas to create plots with Holoviews, rendered by Bokeh. (30 min)
+- :snake: [hvPlot: A high-level plotting API](https://hvplot.holoviz.org/) - Use a pandas to create plots with HoloViews, rendered by Bokeh. (30 min)
 - :hatched_chick: [Flake8](http://flake8.pycqa.org/en/latest/manpage.html) - Use Flake8: pyflakes for common errors, pycodestyle for PEP8-compiancy, and mccabe for code complexity. (10 min)
 - :snake: [Portray: Your Project with Great Documentation](https://timothycrosley.github.io/portray/) - Generate documentation for your projects with no configuration. (30 min)
 - :snake: [pydocstyle](http://www.pydocstyle.org/en/4.0.1/index.html) - Use pydocstyle to check compliance with Python docstring conventions. (5 min)
