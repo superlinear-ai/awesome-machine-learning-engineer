@@ -71,15 +71,15 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### Python patterns
 
-- [The Definitive Guide to Python import Statements](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html) - Resolve common importing problems. (15 min)
-- [PEP8 style guide, and why it is important](https://pragmaticcoders.com/blog/pep8-and-why-is-it-important/) - What PEPs are and what PEP8 is. (5 min)
-- [PEP20 "The Zen of Python"](https://www.python.org/dev/peps/pep-0020/) - Get to know the guiding principles for Python's design. (1 min)
-- [Python Design Patterns](https://python-patterns.guide) - High-level software engineering architecture patterns in Python. (30 min)
-- [SOLID](https://en.wikipedia.org/wiki/SOLID) - High-level software engineering architecture principles. (30 min)
-- [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/) - Low-level Python idioms. (45 min)
-- [Understanding Python's logging module](https://www.electricmonk.nl/log/2017/08/06/understanding-pythons-logging-module/) - Use the `logging` module effectively. (10 min)
-- [Please fix your decorators](https://hynek.me/articles/decorators/) - Why you should probably use [`wrapt`](https://github.com/GrahamDumpleton/wrapt) to write your decorators. (10 min)
-- [Effective Python](https://github.com/SigmaQuan/Better-Python-59-Ways/blob/master/README.md) - Apply 59 ways to write better Python (X hours)
+- :hatched_chick: [The Definitive Guide to Python import Statements](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html) - Resolve common importing problems. (15 min)
+- :snake: [PEP8 style guide, and why is it important?](https://pragmaticcoders.com/blog/pep8-and-why-is-it-important/) - What PEPs are and what PEP8 is. (5 min)
+- :snake: [PEP20 "The Zen of Python"](https://www.python.org/dev/peps/pep-0020/) - Get to know the guiding principles for Python's design. (1 min)
+- :unicorn: [Python Design Patterns](https://python-patterns.guide) - High-level software engineering architecture patterns in Python. (30 min)
+- :unicorn: [SOLID](https://en.wikipedia.org/wiki/SOLID) - High-level software engineering architecture principles. (30 min)
+- :unicorn: [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/) - Low-level Python idioms. (45 min)
+- :snake: [Understanding Python's logging module](https://www.electricmonk.nl/log/2017/08/06/understanding-pythons-logging-module/) - Use the `logging` module effectively. (10 min)
+- :snake: [Please fix your decorators](https://hynek.me/articles/decorators/) - Why you should probably use [`wrapt`](https://github.com/GrahamDumpleton/wrapt) to write your decorators. (10 min)
+- :unicorn: [Effective Python](https://github.com/SigmaQuan/Better-Python-59-Ways/blob/master/README.md) - Apply 59 ways to write better Python (X hours)
 
 ### Linting
 
