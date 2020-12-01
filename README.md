@@ -202,6 +202,7 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - TODO: selected Pytest extensions
 - TODO: cookiecutter & cruft (as a standalone repo?)
 - TODO: https://pypi.org/project/snoop/
+- TODO: Slack etiquette
 
 ## Curated by Radix
 
