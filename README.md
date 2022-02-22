@@ -127,8 +127,8 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 
 ### Sklearn
 
-- [Custom Estimators](http://danielhnyk.cz/creating-your-own-estimator-scikit-learn/) - Create your own custom estimator (30 hours)
-- [Pipelines](http://scikit-learn.org/stable/modules/pipeline.html) - Combine transformers and estimators into pipelines ( min)
+- [Custom Estimators](http://danielhnyk.cz/creating-your-own-estimator-scikit-learn/) - Create your own custom estimator (20 min)
+- [Pipelines](http://scikit-learn.org/stable/modules/pipeline.html) - Combine transformers and estimators into pipelines (15 min)
 - [Pipelines and custom Estimators](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
 - [Tuning hyperparameters](https://scikit-learn.org/stable/modules/grid_search.html) - Implement grid search and randomized search for parameter optimization. (10 min)
 
