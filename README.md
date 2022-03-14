@@ -132,6 +132,11 @@ _While, in theory, you can just download Tensorflow and start making deep neural
 - [Pipelines and custom Estimators](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
 - [Tuning hyperparameters](https://scikit-learn.org/stable/modules/grid_search.html) - Implement grid search and randomized search for parameter optimization. (10 min)
 
+### PyTorch 
+- [Deep Neural Networks with PyTorch](https://www.coursera.org/learn/deep-neural-networks-with-pytorch) - Full Course on Deep Learning with PyTorch on Coursera (31 hours)
+- [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) - Introduction to PyTorch made by Facebook AI on Udacity (25 hours)
+- [Practical Deep Learning for Coders](https://course.fast.ai/) -For software engineer by fast.ai 
+
 ## DevOps
 
 ### CI/CD
