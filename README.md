@@ -182,7 +182,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 - :unicorn: [Gaussian processes - From scratch](https://peterroelants.github.io/posts/gaussian-process-tutorial/) - How to build probabilistic regression models with Gaussian Processes (1 hour)
 
-## Computer Vision
+### Computer Vision
 
 - :snake: [Microsoft's Document Image Transformer](https://github.com/microsoft/unilm/tree/master/dit) - A self-supervised pre-trained model that achieves SotA performance on [PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet) and can be used for various downstream tasks (30 min)
 
