@@ -59,6 +59,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### Workflow
 
+- :hatched_chick: [Poetry Cookiecutter](https://github.com/radix-ai/poetry-cookiecutter) - How to scaffold a modern Poetry-based development environment for Python packages and apps (30 min)
 - :hatched_chick: [The seven rules of a great Git commit message](https://chris.beams.io/posts/git-commit/) - How to write great Git commit messages (15 min)
 - :hatched_chick: [Learn Git Branching](https://learngitbranching.js.org/) - Practice Git from beginner to advanced (1 hour)
 - :snake: [Keep a Changelog](https://keepachangelog.com/) - How to keep a changelog for your apps and packages (30 min)
@@ -97,7 +98,6 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 #### Workflow
 
-- :hatched_chick: [Poetry Cookiecutter](https://github.com/radix-ai/poetry-cookiecutter) - A modern Cookiecutter template for scaffolding Python packages and apps
 - :snake: [cookiecutter](https://github.com/cookiecutter/cookiecutter) - Scaffold new Python packages or apps quickly with a Cookiecutter template
 - :snake: [cruft](https://github.com/cruft/cruft) - Update a Python package's underlying Cookiecutter scaffolding
 - :snake: [commitizen](https://github.com/commitizen-tools/commitizen) - Check that commit messages satisfy [Conventional Commits](https://www.conventionalcommits.org/) and automate [Semantic Versioning](https://semver.org/) and [Keep a Changelog](https://keepachangelog.com/)
