@@ -16,7 +16,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
   1. :hatched_chick: Essential reading for all ML engineers
   2. :snake: Advanced reading for professional ML engineers
   3. :unicorn: Expert material for expert ML engineers
-- Descriptions are written so that they complete the sentence *"After reading this article you will have learned ..."*.
+- Descriptions are written to complete the sentence *"After reading this article you will have learned ..."*.
 
 ## Contents
 
