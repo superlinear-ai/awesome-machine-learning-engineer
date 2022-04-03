@@ -190,12 +190,12 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 - :snake: [Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding) - A curated list of pretrained sentence and word embedding models (15 min)
 
-### Time series analysis
+### Time Series Analysis
 
 - :snake: [The Prophet model](https://otexts.com/fpp3/prophet.html) - How Meta's Prophet model decomposes a time series into a trend, seasonality, and holiday components (30 min)
 - :snake: [Darts - Time Series Made Easy in Python](https://github.com/unit8co/darts) - How to build forecasting models with `darts` (1 hour)
 
-### Recommender systems
+### Recommender Systems
 
 - :snake: [Microsoft Recommenders](https://github.com/microsoft/recommenders) - A comparison of recommender system models (30 min)
 
