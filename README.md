@@ -48,7 +48,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 ### API design
 
 - :hatched_chick: [Semantic Versioning](https://semver.org/) - How to bump the version of your apps and packages (15 min)
-- :hatched_chick: [__all__ and wild imports in Python](http://xion.io/post/code/python-all-wild-imports.html) - How `__all__` defines the public API of your Python packages (15 min)
+- :hatched_chick: [`__all__` and wild imports in Python](http://xion.io/post/code/python-all-wild-imports.html) - How `__all__` defines the public API of your Python packages (15 min)
 - :hatched_chick: [APIs for Machine Learning](https://madewithml.com/courses/mlops/api/) - How to design RESTful APIs for Machine Learning applications (30 min)
 - :snake: [FastAPI docs](https://fastapi.tiangolo.com/tutorial/first-steps/) - How to build RESTful APIs that correspond one-to-one with an OpenAPI specification (1 day)
 - :snake: [The Rule of Three](https://blog.codinghorror.com/rule-of-three/) - When to build reusable components and when not (15 min)
@@ -192,7 +192,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### Time series analysis
 
-- :snake: [Prophet model](https://otexts.com/fpp3/prophet.html) - How Meta's Prophet model decomposes a time series into a trend, seasonality, and holiday components (30 min)
+- :snake: [The Prophet model](https://otexts.com/fpp3/prophet.html) - How Meta's Prophet model decomposes a time series into a trend, seasonality, and holiday components (30 min)
 - :snake: [Darts - Time Series Made Easy in Python](https://github.com/unit8co/darts) - How to build forecasting models with `darts` (1 hour)
 
 ### Recommender systems
