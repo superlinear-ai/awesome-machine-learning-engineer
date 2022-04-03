@@ -31,7 +31,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 - :hatched_chick: [The XY Problem](http://xyproblem.info/) - How to focus on explaining your end goal when asking for help (5 min)
 - :hatched_chick: [Bike-shedding: how mature are you as an engineer?](https://no-kill-switch.ghost.io/bike-shedding-how-mature-are-you-as-an-engineer/) - How to avoid and call out bike-shedding (5 min)
 - :hatched_chick: [E-mail like a boss](https://pbs.twimg.com/media/D7LgaoMW4Acy6hL?format=jpg&name=large) - How to write better e-mails (5 min)
-- :hatched_chick: [Stop Swiss Cheesing your calendar](https://thinkingthrough.substack.com/p/stop-swiss-cheesing-your-calendar?s=r) - How to manage your calendar so you can focus (15min)
+- :hatched_chick: [Stop Swiss Cheesing your calendar](https://thinkingthrough.substack.com/p/stop-swiss-cheesing-your-calendar?s=r) - How to manage your calendar so you can focus (15 min)
 - :hatched_chick: [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html) - How to write in plain English (30 min)
 - :hatched_chick: [Presentation Rules](http://www.jilles.net/perma/2020/06/05/presentation-rules.html) - How to create a great slide deck (30 min)
 - :snake: [SMART criteria](https://en.wikipedia.org/wiki/SMART_criteria) - How to define goals (15 min)
@@ -68,7 +68,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 - :snake: [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices) - What to look for when reviewing a Pull Request (30 min)
 - :snake: [Code Health: Respectful Reviews == Useful Reviews](https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html) - How to communicate code review comments respectfully (15 min)
 - :snake: [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/) - What to look for and what to automate when reviewing a Pull Request (15 min)
-- :unicorn: [Poetry workspace plugin](https://github.com/jacksmith15/poetry-workspace-plugin) - How to create and mange a Poetry-based monorepo (15 min)
+- :unicorn: [Poetry workspace plugin](https://github.com/jacksmith15/poetry-workspace-plugin) - How to create and manage a Poetry-based monorepo (15 min)
 
 ### Python patterns
 
@@ -113,7 +113,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 - :snake: [bandit](https://github.com/PyCQA/bandit) - Find common security issues
 - :snake: [darglint](https://github.com/terrencepreilly/darglint) - Check that your docstrings match your function signature
 - :snake: [flake8](https://github.com/PyCQA/flake8) - Check your code for bugs and that your code style is [PEP8](https://peps.python.org/pep-0008/)-compliant
-- :snake: [flake8 extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - An awesome list of Flake8 extensions (30 min)
+- :snake: [flake8 extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - An awesome list of Flake8 extensions
 - :snake: [mypy](https://github.com/python/mypy) - Check the type-correctness of your code
 - :snake: [pre-commit hooks](https://github.com/pre-commit/pre-commit-hooks) - A collection of [pre-commit](https://pre-commit.com/) hooks that check file quality
 - :snake: [pydocstyle](https://github.com/PyCQA/pydocstyle) - Check that your code is documented
@@ -236,7 +236,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 - :snake: [Modern Python Environments - dependency and workspace management](https://testdriven.io/blog/python-environments/) - A comparison between pyenv, venv + pip, venv + pip-tools, poetry, pipenv, and conda (30 min)
 - :unicorn: [Conda: Myths and Misconceptions](http://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/) - Common misconceptions about Conda (15 min)
 
-### Containerization
+### Docker
 
 - :hatched_chick: [Docker Curriculum](https://docker-curriculum.com/) - How to use Docker (4 hours)
 - :snake: [Docker layer caching](https://pythonspeed.com/articles/docker-caching-model/) - How to write Dockerfiles to benefit from layer caching (30 min)
