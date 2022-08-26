@@ -267,7 +267,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 - :snake: [Terraform best practices](https://github.com/ozbillwang/terraform-best-practices) - Terraform best practices (1 hour)
 - :unicorn: [Terraform pre-commit hooks collection](https://github.com/antonbabenko/pre-commit-terraform) - How to automate Terraform code quality checks with pre-commit (1 hour)
 - :unicorn: [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform) - An awesome list of Terraform resources (30 min)
-- :hatched_chick: [Terraform Tutorial](https://spacelift.io/blog/terraform-tutorial) - Getting Started With Terraform on AWS (1 hour)
+- :hatched_chick: [Terraform Tutorial](https://spacelift.io/blog/terraform-tutorial) - How to get started with Terraform (1 hour)
 
 ### Infrastructure
 
