@@ -59,7 +59,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### Workflow
 
-- :hatched_chick: [Poetry Cookiecutter](https://github.com/radix-ai/poetry-cookiecutter) - How to scaffold a modern Poetry-based development environment for Python packages and apps (30 min)
+- :hatched_chick: [Poetry Cookiecutter](https://github.com/superlinear-ai/poetry-cookiecutter) - How to scaffold a modern Poetry-based development environment for Python packages and apps (30 min)
 - :hatched_chick: [The seven rules of a great Git commit message](https://chris.beams.io/posts/git-commit/) - How to write great Git commit messages (15 min)
 - :hatched_chick: [Learn Git Branching](https://learngitbranching.js.org/) - Practice Git from beginner to advanced (1 hour)
 - :snake: [Keep a Changelog](https://keepachangelog.com/) - How to keep a changelog for your apps and packages (30 min)
@@ -277,9 +277,9 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 - :unicorn: [RabbitMQ: a message queue library with persistance](https://www.rabbitmq.com/tutorials/tutorial-one-python.html) - RabbitMQ is a messaging system with a message broker (4 hours)
 - :unicorn: [ZeroMQ: a socket library with message queue primitives](https://zguide.zeromq.org/) - ZeroMQ is a lightweight messaging system without a message broker (8 hours)
 
-## Curated by Radix
+## Curated by Superlinear
 
-[Radix](https://radix.ai) is a Belgium-based Machine Learning company.
+[Superlinear](https://superlinear.eu/) is a Belgium-based Machine Learning company.
 
 We invent, design and develop AI-powered software. Together with our clients, we identify which problems within organizations can be solved with AI, demonstrating the value of Artificial Intelligence for each problem.
 
